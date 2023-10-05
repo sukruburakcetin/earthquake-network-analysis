@@ -7,32 +7,11 @@
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"/>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <link rel="stylesheet" href="../static/style.css">
-    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
-    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
-    <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
-
 </head>
 <body>
-<div id="map-container">
+<div id="map"></div>
 
-    <div id="map"></div>
-</div>
-<div id="search-bar-container">
-    <form id="search-form" onsubmit="return submitForm(event);">
-        <input type="text" placeholder="Adres Giriniz" id="search-bar-input" name="search-bar-input">
-        <div id="clear-div">
-            <a id="clear-address">X</a>
-        </div>
-        <button type="submit" id="submit-button">
-            <img src="../static/buyutec.png">
-        </button>
-    </form>
-    <div id="result-container"></div>
-</div>
-<button id="toggle-layer-button">
-    <ion-icon name="map-outline"></ion-icon>
-</button>
-
+<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
 <script>
     // Initialize the map
     var map = L.map('map').setView([41.0082, 28.9784], 13);
@@ -44,161 +23,38 @@
         maxZoom: 20
     });
 
-    var rehberVTDarkLayer = L.tileLayer('https://cbsaltlik.ibb.gov.tr/arcgis/rest/services/RehberDark/MapServer/tile/{z}/{y}/{x}', {
-        attribution: 'İstanbul Büyükşehir Belediyesi©',
-        subdomains: 'abcd',
-        minZoom: 0,
-        maxZoom: 20
-    })
-
-
-    var uyduLayer = L.tileLayer('https://cbsaltlik.ibb.gov.tr/arcgis/rest/services/Uydu/MapServer/tile/{z}/{y}/{x}', {
-        attribution: 'İstanbul Büyükşehir Belediyesi©',
-        subdomains: 'abcd',
-        minZoom: 0,
-        maxZoom: 20
-    });
-
     // Add only the selected layer back to the map
-    var selectedLayer = uyduLayer
+    var selectedLayer = rehberVTGrayLayer
     selectedLayer.addTo(map);
 
     // Add the layer control back to the map with only the selected layer option
     var layerControl = L.control.layers({
         // Only show the selected layer in the layer control
-        'RehberVTGri': rehberVTGrayLayer,
-        'RehberVTSiyah': rehberVTDarkLayer,
-        'Uydu 2022': uyduLayer,
+        'RehberVTGri': rehberVTGrayLayer
     }).addTo(map);
 
-    // Add only the selected layer back to the map
-    var selectedLayer = rehberVTGrayLayer
-    selectedLayer.addTo(map);
-
-    // create a custom control for the legend
-    var legend = L.control({position: 'bottomright'});
-
-    legend.onAdd = function (map) {
-        var div = L.DomUtil.create('div', 'info_suitabilityLayer_legend');
-        div.innerHTML += '<h4 style="background-color:white; margin: 5px;font-size: 15px;padding-left: 5px; padding-right: 5px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; RİSK DURUMU</h4>';
-        div.innerHTML += '<i style="background-color: #0000FF; width: 10px; height: 10px; display: inline-block; border: 2px solid black;"></i><span style="background-color:white; margin:2px; padding-left: 5px;border-radius:10px; padding-right: 5px; font-size: 15px">Yüksek Riskli</span><br>';
-        div.innerHTML += '<i style="background-color: #00FF00; width: 10px; height: 10px; display: inline-block; border: 2px solid black;"></i><span style="background-color:white; margin:2px; padding-left: 5px;border-radius:10px; padding-right: 5px; font-size: 15px">Riskli</span><br>';
-        div.innerHTML += '<i style="background-color: #FFFF00; width: 10px; height: 10px; display: inline-block; border: 2px solid black;"></i><span style="background-color:white; margin:2px; padding-left: 5px;border-radius:10px; padding-right: 5px; font-size: 15px">Düşük Riskli</span><br>';
-        div.innerHTML += '<i style="background-color: #FFA500; width: 10px; height: 10px; display: inline-block; border: 2px solid black;"></i><span style="background-color:white; margin:2px; padding-left: 5px;border-radius:10px; padding-right: 5px; font-size: 15px">Güvenli</span><br>';
-
-        div.innerHTML += '<span style="border-radius:10px; padding-left: 5px; padding-right: 5px; background-color:white; margin:2px; font-size: 15px">FHY: Fay Hattına Yakınlık</span><br>';
-        div.innerHTML += '<span style="border-radius:10px; padding-left: 5px; padding-right: 5px; background-color:white; margin:2px; font-size: 15px">TNY: Toplanma Noktalarına Yakınlık</span><br>';
-        div.innerHTML += '<span style="border-radius:10px; padding-left: 5px; padding-right: 5px; background-color:white; margin:2px; font-size: 15px">HY: Hastanelere Yakınlık</span><br>';
-        div.innerHTML += '<span style="border-radius:10px; padding-left: 5px; padding-right: 5px; background-color:white; margin:2px; font-size: 15px">TAG: Toplanma Alanı Güvenlik</span><br>';
-        div.innerHTML += '<span style="border-radius:10px; padding-left: 5px; padding-right: 5px; background-color:white; margin:2px; font-size: 15px">TAY: Toplanma Alanı Yeterlilik</span><br>';
-        return div;
-    };
-
-    // add the legend control to the map
-    legend.addTo(map); // add the legend control to the map
-
-    // Define a variable to track the visibility state of the GeoJSON layer
-    let isGeoJSONLayerVisible = true;
-
-    // Function to toggle the visibility of the GeoJSON layer
-    function toggleGeoJSONLayer() {
-        if (isGeoJSONLayerVisible) {
-            // Hide the GeoJSON layer
-            map.removeLayer(geoJSONLayer);
-        } else {
-            // Show the GeoJSON layer
-            geoJSONLayer.addTo(map);
-        }
-        // Toggle the visibility state
-        isGeoJSONLayerVisible = !isGeoJSONLayerVisible;
-    }
-
-    // Add a click event listener to the button
-    const toggleButton = document.getElementById("toggle-layer-button");
-    toggleButton.addEventListener("click", toggleGeoJSONLayer);
-
-    function submitForm(event) {
-        event.preventDefault(); // Prevent default form submission behavior
-
-        var xhr = new XMLHttpRequest();
-        xhr.open("POST", "/locate-addresses", true);
-        xhr.setRequestHeader("Content-Type", "application/json");
-
-        xhr.onreadystatechange = function () {
-            if (xhr.readyState === 4 && xhr.status === 200) {
-                var response = JSON.parse(xhr.responseText);
-                // Handle the response here
-                displayResponse(response);
-            }
-        };
-
-        var data = JSON.stringify({"search-bar-input": searchInput.value});
-        // console.log("data", data)
-        xhr.send(data);
-
-        function displayResponse(response) {
-            resultContainer.innerHTML = ''; // Clear previous results
-            try {
-                for (var i = 0; i < response.result.length; i++) {
-                    var address = response.result[i];
-                    var myList = document.createElement('li');
-                    var addressElement = document.createElement('button');
-                    addressElement.textContent = address.name;
-
-                    // Set data attributes for latitude and longitude
-                    addressElement.setAttribute('data-lat', address.lat);
-                    addressElement.setAttribute('data-lng', address.lon);
-                    addressElement.setAttribute('address-name', address.name);
-
-                    myList.appendChild(addressElement);
-
-                    // Create a click handler function
-                    addressElement.onclick = function () {
-                        var lat = parseFloat(this.getAttribute('data-lat'));
-                        var lng = parseFloat(this.getAttribute('data-lng'));
-                        var name = this.getAttribute('address-name');
-
-                        map.setView([lat, lng], 19);
-
-                        // Custom marker icon
-                        var customIcon = L.icon({
-                            iconUrl: '/static/data/address_pointer.png',
-                            iconSize: [32, 32], // Set the size of the image
-                            iconAnchor: [16, 32], // Adjust the anchor point if needed
-                            className: 'custom-icon'
-                        });
-
-                        // Add a marker with the custom icon at the specified location
-                        var marker = L.marker([lat, lng], {icon: customIcon}).addTo(map);
-                        marker.bindPopup(name).openPopup();
-
-                        // Remove the custom icon after 10 seconds
-                        // Remove the marker after 10 seconds
-                        setTimeout(function () {
-                            map.removeLayer(marker);
-                        }, 2000);
-                    };
-
-                    resultContainer.appendChild(addressElement);
-                }
-            } catch (e) {
-                alert("Adres giriniz!")
-
-            }
-        }
-
-        // Reset the input timer after sending the request
-        clearTimeout(inputTimer);
-    }
 
     async function loadAfadAnalytics(gridID) {
         console.log("gridID", gridID)
         const response = await fetch("../static/data/afad_network_full_son.json");
         const names = await response.json();
+
+        // console.log("names",names)
+        // console.log("1",Object.keys(names))
+        // console.log("2",Object.values(names))
+        // for (let i; i < names.length())
+        // console.log("alo", listNames);
+        // console.log("alo", listNames[0]);
+        // console.log(names[0].col0.slice(0, 1));
         let listNames = Object.values(names)
+        // console.log("alo", listNames);
+
         var finalResult;
         for (let j = 1; j < listNames.length + 1; j++) {
             if (gridID === j) {
+                // console.log("girdi")
+                // console.log(listNames[j])
+                // console.log(listNames[j].col0)
                 searchElement = listNames[j].col0
                 const hexagonPointsList = []
                 if (searchElement.indexOf("polygon_4") !== -1) {
@@ -263,13 +119,26 @@
 
 
     async function loadHospitalityAnalytics(gridID) {
+        // console.log("gridID", gridID)
         const response = await fetch("../static/data/hexgrid_hospitality_alt_son.json");
         const hospitalities = await response.json();
 
+        // console.log("areas", hospitalities)
+        // console.log("1", Object.keys(hospitalities))
+        // // console.log("2",Object.values(names))
+        // // for (let i; i < names.length())
         let listHospitalities = Object.values(hospitalities)
+        // console.log("alo", listHospitalities);
+        // console.log("alo123123", listHospitalities[0].ID);
+        // // console.log(names[0].col0.slice(0, 1));
+        //
         for (let j = 0; j < listHospitalities.length; j++) {
             if (gridID === listHospitalities[j].ID) {
+                // console.log("girdi")
+                // console.log(listNames[j])
+                // console.log(listNames[j].col0)
                 searchElement = listHospitalities[j].SCORE
+                // console.log("ayooooooooooooo: ", searchElement)
                 break
             } else {
                 searchElement = 0
@@ -280,11 +149,24 @@
     }
 
     async function loadAreaAnalytics(gridID) {
+        // console.log("gridID", gridID)
         const response = await fetch("../static/data/alan_afad_oran.json");
         const areas = await response.json();
+
+        // console.log("areas", areas)
+        // console.log("1", Object.keys(areas))
+        // // console.log("2",Object.values(names))
+        // // for (let i; i < names.length())
+        // console.log("alo", listAreas);
+        // // console.log("alo", listNames[0]);
+        // // console.log(names[0].col0.slice(0, 1));
+
         let listAreas = Object.values(areas)
         for (let j = 0; j < listAreas.length; j++) {
             if (gridID === listAreas[j].ID) {
+                // console.log("girdi")
+                // console.log(listNames[j])
+                // console.log(listNames[j].col0)
                 searchElement = listAreas[j].ORAN
                 break
             } else {
@@ -298,11 +180,24 @@
         // console.log("gridID", gridID)
         const response = await fetch("../static/data/hexgrid_fayhatti_full_son.json");
         const distances = await response.json();
+
+        // console.log("distances", distances)
+        // console.log("1", Object.keys(distances))
+        // // console.log("2",Object.values(names))
+        // // for (let i; i < names.length())
+        // console.log("alo", listAreas);
+        // // console.log("alo", listNames[0]);
+        // // console.log(names[0].col0.slice(0, 1));
+
         let listDistances = Object.values(distances)
         for (let j = 1; j < listDistances.length + 1; j++) {
             if (gridID === j) {
+                // console.log("girdi")
+                // console.log(listNames[j])
+                // console.log(listNames[j].col0)
                 searchElement = listDistances[j].DISTANCE
                 break
+                // console.log("distance", searchElement)
             } else {
                 searchElement = 0
             }
@@ -312,11 +207,25 @@
 
 
     async function loadSuitabilityAnalytics(gridID) {
+        // console.log("gridID", gridID)
         const response = await fetch("../static/data/afad_alan_yeterlilik.json");
         const suitabilityRates = await response.json();
+
+        // console.log("distances", distances)
+        // console.log("1", Object.keys(distances))
+        // // console.log("2",Object.values(names))
+        // // for (let i; i < names.length())
+        // console.log("alo", listAreas);
+        // // console.log("alo", listNames[0]);
+        // // console.log(names[0].col0.slice(0, 1));
+
         let listSuitabilityRates = Object.values(suitabilityRates)
         for (let j = 1; j < listSuitabilityRates.length + 1; j++) {
             if (gridID === j) {
+                // console.log("girdi")
+                // console.log(listNames[j])
+                // console.log(listNames[j].col0)
+                // console.log("adsasd", listSuitabilityRates[j])
                 searchElement = listSuitabilityRates[j].NUFUS_AFAD_ORAN
                 break
                 // console.log("distance", searchElement)
@@ -333,8 +242,8 @@
         return finalResult;
     }
 
-    let geoJSONLayer;
     // Load the GeoJSON data
+    // var geojsonUrl = 'https://raw.githubusercontent.com/sukruburakcetin/earthquake-network-analysis/master/main/static/data/hexgrids_fatih.geojson';
     var geojsonUrl = 'https://raw.githubusercontent.com/sukruburakcetin/earthquake-network-analysis/master/main/static/data/fatih_hexgrids_with_colors.json';
 
     fetch(geojsonUrl)
@@ -345,16 +254,75 @@
 
             // Create a GeoJSON layer and add it to the map with click event listener
             let dataKeys = Object.keys(data.features)
-            // console.log("data", data)
+            // console.log("a", data)
+            // console.log("b", dataKeys)
+            console.log("data",data)
+            // let totalScores = []; // Initialize an array to store total scores
+            //
+            // let totalAfadNetworkRegionScoreForThisHexagon;
+            // let totalHospitalityNetworkRegionScoreForThisHexagon;
+            // let totalAreaRatioForThisHexagon;
+            // let totalFaultLineDistanceForThisHexagon;
+            // let totalSuitabilityForThisHexagon;
+            //
+            // for (let i = 0; i < dataKeys.length+1; i++) {
+            //     console.log("asdasd", data.features[i].properties.col3)
+            //     try {
+            //         totalAfadNetworkRegionScoreForThisHexagon = await loadAfadAnalytics(data.features[i].properties.ID);
+            //     } catch (e) {
+            //         totalAfadNetworkRegionScoreForThisHexagon = 0
+            //         console.log("e", e)
+            //     }
+            //     try {
+            //         totalHospitalityNetworkRegionScoreForThisHexagon = await loadHospitalityAnalytics(data.features[i].properties.ID);
+            //     } catch (e) {
+            //         totalHospitalityNetworkRegionScoreForThisHexagon = 0
+            //         console.log("e", e)
+            //     }
+            //     try {
+            //         totalAreaRatioForThisHexagon = await loadAreaAnalytics(data.features[i].properties.ID);
+            //     } catch (e) {
+            //         totalAreaRatioForThisHexagon = 0
+            //         console.log("e", e)
+            //     }
+            //     try {
+            //         totalFaultLineDistanceForThisHexagon = await loadFaultLineDistanceAnalytics(data.features[i].properties.ID);
+            //     } catch (e) {
+            //         totalFaultLineDistanceForThisHexagon = 0
+            //         console.log("e", e)
+            //     }
+            //     try {
+            //         totalSuitabilityForThisHexagon = await loadSuitabilityAnalytics(data.features[i].properties.ID);
+            //     } catch (e) {
+            //         totalSuitabilityForThisHexagon = 0
+            //         console.log("e", e)
+            //     }
+            //     console.log("totalAfadNetworkRegionScoreForThisHexagon: ", totalAfadNetworkRegionScoreForThisHexagon)
+            //     console.log("totalHospitalityNetworkRegionScoreForThisHexagon: ", totalHospitalityNetworkRegionScoreForThisHexagon)
+            //     console.log("totalAreaRatioForThisHexagon: ", totalAreaRatioForThisHexagon)
+            //     console.log("totalFaultLineDistanceForThisHexagon: ", totalFaultLineDistanceForThisHexagon)
+            //     console.log("totalSuitabilityForThisHexagon: ", totalSuitabilityForThisHexagon)
+            //
+            //     // Sum the scores
+            //     var totalScore = totalAfadNetworkRegionScoreForThisHexagon +
+            //         totalHospitalityNetworkRegionScoreForThisHexagon +
+            //         totalAreaRatioForThisHexagon +
+            //         totalFaultLineDistanceForThisHexagon +
+            //         totalSuitabilityForThisHexagon;
+            //     if (!isNaN(totalScore)) {
+            //         totalScores.push(totalScore); // Add the total score to the array
+            //     } else {
+            //         totalScores.push(0);
+            //     }
+            // }
+            // console.log("totalScores", totalScores)
 
             // Create a GeoJSON layer and add it to the map with click event listener
-            geoJSONLayer = L.geoJSON(data, {
-                style: function (feature) {
-                    return {
-                        fillColor: feature.properties.col3,
-                        fillOpacity: 1,
-                        color: 'black'
-                    };
+            L.geoJSON(data, {
+                style: {
+                    fillColor: data.features[0].properties.col3,
+                    fillOpacity: 0.5,
+                    color: 'black'
                 },
                 onEachFeature: function (feature, layer) {
                     // Add a click event listener to each hexagon polygon
@@ -364,7 +332,13 @@
                         let totalAreaRatioForThisHexagon = await loadAreaAnalytics(feature.properties.ID);
                         let totalFaultLineDistanceForThisHexagon = await loadFaultLineDistanceAnalytics(feature.properties.ID);
                         let totalSuitabilityForThisHexagon = await loadSuitabilityAnalytics(feature.properties.ID);
-
+                        console.log("totalAfadNetworkRegionScoreForThisHexagon: ", totalAfadNetworkRegionScoreForThisHexagon)
+                        console.log("totalHospitalityNetworkRegionScoreForThisHexagon: ", totalHospitalityNetworkRegionScoreForThisHexagon)
+                        console.log("totalAreaRatioForThisHexagon: ", totalAreaRatioForThisHexagon)
+                        console.log("totalFaultLineDistanceForThisHexagon: ", totalFaultLineDistanceForThisHexagon)
+                        console.log("totalSuitabilityForThisHexagon: ", totalSuitabilityForThisHexagon)
+                        // console.log("feature", feature.properties.ID)
+                        // console.log("event", event.sourceTarget._leaflet_id)
                         // Create a popup with a graph
                         var popup = layer.getPopup();
                         if (!popup) {
@@ -379,9 +353,10 @@
                         popup.setContent(canvas);
 
                         // Generate sample data for the graph (replace with your data)
+
                         var marksData = {
                             // labels: ["Fay Hattına Yakınlık", "Toplanma Noktalarına Yakınlık", "Hastanelere Yakınlık", "Toplanma Alanı Güvenlik", "Toplanma Alanı Yeterlilik"],
-                            labels: ["FHY", "TAY", "HY", "TAG", "TAY"],
+                            labels: ["a", "b", "c", "d", "e"],
                             datasets: [{
                                 label: "Analiz Grafiği",
                                 backgroundColor: "rgba(200,0,0,0.2)",
@@ -395,6 +370,7 @@
                             width: 500,
                             height: 500
                         });
+
 
                         // Open the popup on the map
                         layer.openPopup();
