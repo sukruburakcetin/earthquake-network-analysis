@@ -1,0 +1,2874 @@
+[
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 10,
+		"Shape_Area.sum" : 2.89142573366e-6,
+		"intersectSumArea" : 8.473491543112551e-8,
+		"AD.total_count" : "21",
+		"ORAN" : "0.029305582517544754"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 356,
+		"Shape_Area.sum" : 5.037991068003e-7,
+		"intersectSumArea" : 1.2704342356763601e-7,
+		"AD.total_count" : "15",
+		"ORAN" : "0.2521707995365592"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 44,
+		"Shape_Area.sum" : 4.418363029890001e-6,
+		"intersectSumArea" : 6.195930711317143e-7,
+		"AD.total_count" : "56",
+		"ORAN" : "0.14023136327644395"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 45,
+		"Shape_Area.sum" : 2.6272364187410003e-7,
+		"intersectSumArea" : 7.237240326589031e-8,
+		"AD.total_count" : "9",
+		"ORAN" : "0.2754697017353769"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 435,
+		"Shape_Area.sum" : 1.9061464287e-7,
+		"intersectSumArea" : 4.211183341057e-8,
+		"AD.total_count" : "5",
+		"ORAN" : "0.2209265394122447"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 250,
+		"Shape_Area.sum" : 1.51420394319e-6,
+		"intersectSumArea" : 5.668269436447e-8,
+		"AD.total_count" : "7",
+		"ORAN" : "0.037433989403736184"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 58,
+		"Shape_Area.sum" : 7.86749274878494e-8,
+		"intersectSumArea" : 5.342019553976401e-8,
+		"AD.total_count" : "16",
+		"ORAN" : "0.678998980304294"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 267,
+		"Shape_Area.sum" : 1.3711542808318e-6,
+		"intersectSumArea" : 2.9985183322600004e-8,
+		"AD.total_count" : "2",
+		"ORAN" : "0.021868569964577384"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 277,
+		"Shape_Area.sum" : 5.33971596445e-7,
+		"intersectSumArea" : 9.37583137724288e-8,
+		"AD.total_count" : "17",
+		"ORAN" : "0.17558670610317018"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 43,
+		"Shape_Area.sum" : 4.418363029890001e-6,
+		"intersectSumArea" : 6.195930711317143e-7,
+		"AD.total_count" : "56",
+		"ORAN" : "0.14023136327644395"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 49,
+		"Shape_Area.sum" : 5.71358493098e-8,
+		"intersectSumArea" : 1.297596274004113e-8,
+		"AD.total_count" : "7",
+		"ORAN" : "0.22710719971419902"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 362,
+		"Shape_Area.sum" : 1.34026924648473e-6,
+		"intersectSumArea" : 1.3870111967723998e-7,
+		"AD.total_count" : "23",
+		"ORAN" : "0.1034875045003282"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 194,
+		"Shape_Area.sum" : 5.100416269208001e-7,
+		"intersectSumArea" : 5.2833714860628835e-8,
+		"AD.total_count" : "17",
+		"ORAN" : "0.10358706441196597"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 188,
+		"Shape_Area.sum" : 7.531629865344e-7,
+		"intersectSumArea" : 8.036632195677101e-8,
+		"AD.total_count" : "11",
+		"ORAN" : "0.1067050869381781"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 345,
+		"Shape_Area.sum" : 7.62743326739e-9,
+		"intersectSumArea" : 9.8936385688e-10,
+		"AD.total_count" : "1",
+		"ORAN" : "0.12971124390034114"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 60,
+		"Shape_Area.sum" : 6.04625091475e-7,
+		"intersectSumArea" : 3.991933021200352e-7,
+		"AD.total_count" : "61",
+		"ORAN" : "0.6602327752329825"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 106,
+		"Shape_Area.sum" : 1.0424312927594e-6,
+		"intersectSumArea" : 2.959505260212639e-7,
+		"AD.total_count" : "46",
+		"ORAN" : "0.2839041077113667"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 344,
+		"Shape_Area.sum" : 7.18127378602667e-7,
+		"intersectSumArea" : 2.3094745306957297e-7,
+		"AD.total_count" : "25",
+		"ORAN" : "0.3215967806699569"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 189,
+		"Shape_Area.sum" : 7.531629865344e-7,
+		"intersectSumArea" : 8.036632195677101e-8,
+		"AD.total_count" : "11",
+		"ORAN" : "0.1067050869381781"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 219,
+		"Shape_Area.sum" : 3.38118158969e-6,
+		"intersectSumArea" : 2.0896905835639702e-7,
+		"AD.total_count" : "13",
+		"ORAN" : "0.06180355973591945"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 304,
+		"Shape_Area.sum" : 8.12469230962e-7,
+		"intersectSumArea" : 3.0670854574597296e-7,
+		"AD.total_count" : "42",
+		"ORAN" : "0.37750173675231524"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 186,
+		"Shape_Area.sum" : 3.581436170402e-7,
+		"intersectSumArea" : 1.362588644296e-7,
+		"AD.total_count" : "4",
+		"ORAN" : "0.3804587264619756"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 218,
+		"Shape_Area.sum" : 7.531629865344e-7,
+		"intersectSumArea" : 8.0366321956771e-8,
+		"AD.total_count" : "11",
+		"ORAN" : "0.10670508693817808"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 256,
+		"Shape_Area.sum" : 2.833669183124e-7,
+		"intersectSumArea" : 8.961738004002321e-8,
+		"AD.total_count" : "25",
+		"ORAN" : "0.31625914758766527"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 202,
+		"Shape_Area.sum" : 6.589177980682001e-7,
+		"intersectSumArea" : 2.1696362874446158e-7,
+		"AD.total_count" : "32",
+		"ORAN" : "0.32927267920300607"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 419,
+		"Shape_Area.sum" : 1.2293323907799998e-6,
+		"intersectSumArea" : 5.235915792070887e-7,
+		"AD.total_count" : "30",
+		"ORAN" : "0.4259153855653919"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 170,
+		"Shape_Area.sum" : 3.3863929702375004e-6,
+		"intersectSumArea" : 4.301914357457623e-7,
+		"AD.total_count" : "67",
+		"ORAN" : "0.12703529670851854"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 307,
+		"Shape_Area.sum" : 5.33971596445e-7,
+		"intersectSumArea" : 9.375831377242878e-8,
+		"AD.total_count" : "17",
+		"ORAN" : "0.17558670610317015"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 120,
+		"Shape_Area.sum" : 1.76721370184e-6,
+		"intersectSumArea" : 2.127789075498e-8,
+		"AD.total_count" : "2",
+		"ORAN" : "0.012040360898529553"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 226,
+		"Shape_Area.sum" : 2.833669183124e-7,
+		"intersectSumArea" : 8.961738004002321e-8,
+		"AD.total_count" : "25",
+		"ORAN" : "0.31625914758766527"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 447,
+		"Shape_Area.sum" : 3.0287415471e-7,
+		"intersectSumArea" : 3.8707129930345396e-8,
+		"AD.total_count" : "15",
+		"ORAN" : "0.12779938244452457"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 371,
+		"Shape_Area.sum" : 3.8422754990000003e-7,
+		"intersectSumArea" : 6.56481657267287e-8,
+		"AD.total_count" : "14",
+		"ORAN" : "0.17085751852987752"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 84,
+		"Shape_Area.sum" : 1.99654099573e-7,
+		"intersectSumArea" : 5.774399896928e-8,
+		"AD.total_count" : "3",
+		"ORAN" : "0.28922020180290325"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 352,
+		"Shape_Area.sum" : 3.46951032059e-8,
+		"intersectSumArea" : 9.43823237868e-9,
+		"AD.total_count" : "2",
+		"ORAN" : "0.2720335582421614"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 378,
+		"Shape_Area.sum" : 5.037991068003e-7,
+		"intersectSumArea" : 1.27043423567636e-7,
+		"AD.total_count" : "15",
+		"ORAN" : "0.25217079953655913"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 364,
+		"Shape_Area.sum" : 7.79668827633e-8,
+		"intersectSumArea" : 1.3777831137310001e-8,
+		"AD.total_count" : "5",
+		"ORAN" : "0.17671388991064552"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 285,
+		"Shape_Area.sum" : 1.7910812289273899e-6,
+		"intersectSumArea" : 4.052324284346382e-7,
+		"AD.total_count" : "82",
+		"ORAN" : "0.22625016771423392"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 119,
+		"Shape_Area.sum" : 1.76721370184e-6,
+		"intersectSumArea" : 2.127789075498e-8,
+		"AD.total_count" : "2",
+		"ORAN" : "0.012040360898529553"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 325,
+		"Shape_Area.sum" : 3.46951032059e-8,
+		"intersectSumArea" : 9.43823237868e-9,
+		"AD.total_count" : "2",
+		"ORAN" : "0.2720335582421614"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 156,
+		"Shape_Area.sum" : 7.91445563057e-9,
+		"intersectSumArea" : 7.15908844858728e-9,
+		"AD.total_count" : "8",
+		"ORAN" : "0.9045585423380131"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 214,
+		"Shape_Area.sum" : 2.2063543529220104e-6,
+		"intersectSumArea" : 2.687229697165733e-7,
+		"AD.total_count" : "62",
+		"ORAN" : "0.12179501871976593"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 310,
+		"Shape_Area.sum" : 4.66461033502e-6,
+		"intersectSumArea" : 2.9323246460866e-7,
+		"AD.total_count" : "8",
+		"ORAN" : "0.06286322834025165"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 452,
+		"Shape_Area.sum" : 1.3642046840869999e-6,
+		"intersectSumArea" : 6.339825045051597e-7,
+		"AD.total_count" : "25",
+		"ORAN" : "0.4647268198829381"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 381,
+		"Shape_Area.sum" : 1.33469481723e-7,
+		"intersectSumArea" : 3.562850669166e-8,
+		"AD.total_count" : "9",
+		"ORAN" : "0.2669412230550406"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 327,
+		"Shape_Area.sum" : 6.692931976e-8,
+		"intersectSumArea" : 1.263162050842e-8,
+		"AD.total_count" : "2",
+		"ORAN" : "0.1887307469090584"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 191,
+		"Shape_Area.sum" : 5.835173701542218e-7,
+		"intersectSumArea" : 1.3424385158322695e-7,
+		"AD.total_count" : "10",
+		"ORAN" : "0.2300597350645221"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 130,
+		"Shape_Area.sum" : 9.8971560922516e-7,
+		"intersectSumArea" : 2.197928734203108e-7,
+		"AD.total_count" : "32",
+		"ORAN" : "0.22207679799289493"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 7,
+		"Shape_Area.sum" : 2.89142573366e-6,
+		"intersectSumArea" : 8.47349154311255e-8,
+		"AD.total_count" : "21",
+		"ORAN" : "0.02930558251754475"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 375,
+		"Shape_Area.sum" : 1.0084904346e-6,
+		"intersectSumArea" : 6.45531926863674e-8,
+		"AD.total_count" : "9",
+		"ORAN" : "0.06400972232520112"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 171,
+		"Shape_Area.sum" : 1.6161803912032e-7,
+		"intersectSumArea" : 6.642105114116602e-8,
+		"AD.total_count" : "11",
+		"ORAN" : "0.41097547961040076"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 101,
+		"Shape_Area.sum" : 2.1775005265757e-6,
+		"intersectSumArea" : 4.731145389241238e-7,
+		"AD.total_count" : "79",
+		"ORAN" : "0.2172741329565305"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 17,
+		"Shape_Area.sum" : 3.007659824177e-7,
+		"intersectSumArea" : 4.84932659399301e-8,
+		"AD.total_count" : "15",
+		"ORAN" : "0.16123254880794086"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 414,
+		"Shape_Area.sum" : 5.608205434621e-7,
+		"intersectSumArea" : 2.100332596955967e-7,
+		"AD.total_count" : "41",
+		"ORAN" : "0.3745106382854726"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 159,
+		"Shape_Area.sum" : 4.54873184703e-7,
+		"intersectSumArea" : 2.2958700440829e-8,
+		"AD.total_count" : "6",
+		"ORAN" : "0.05047274979688989"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 347,
+		"Shape_Area.sum" : 2.6623766768421896e-7,
+		"intersectSumArea" : 4.459990943319099e-8,
+		"AD.total_count" : "14",
+		"ORAN" : "0.16751915617774402"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 247,
+		"Shape_Area.sum" : 1.1488294486999999e-6,
+		"intersectSumArea" : 3.780448647107873e-7,
+		"AD.total_count" : "22",
+		"ORAN" : "0.32906961528412926"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 355,
+		"Shape_Area.sum" : 1.0084904346e-6,
+		"intersectSumArea" : 6.455319268636741e-8,
+		"AD.total_count" : "9",
+		"ORAN" : "0.06400972232520113"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 187,
+		"Shape_Area.sum" : 3.581436170402e-7,
+		"intersectSumArea" : 1.362588644296e-7,
+		"AD.total_count" : "4",
+		"ORAN" : "0.3804587264619756"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 234,
+		"Shape_Area.sum" : 2.385040535927e-7,
+		"intersectSumArea" : 2.1118484246881e-8,
+		"AD.total_count" : "7",
+		"ORAN" : "0.0885455988221719"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 115,
+		"Shape_Area.sum" : 9.74229724595e-8,
+		"intersectSumArea" : 4.133579414206999e-8,
+		"AD.total_count" : "8",
+		"ORAN" : "0.4242920647822958"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 429,
+		"Shape_Area.sum" : 5.608205434621e-7,
+		"intersectSumArea" : 2.100332596955967e-7,
+		"AD.total_count" : "41",
+		"ORAN" : "0.3745106382854726"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 30,
+		"Shape_Area.sum" : 2.6272364187410003e-7,
+		"intersectSumArea" : 7.237240326589031e-8,
+		"AD.total_count" : "9",
+		"ORAN" : "0.2754697017353769"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 380,
+		"Shape_Area.sum" : 1.0274176311179999e-7,
+		"intersectSumArea" : 2.0532682981393003e-8,
+		"AD.total_count" : "3",
+		"ORAN" : "0.1998474851852606"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 450,
+		"Shape_Area.sum" : 1.3044898648087e-6,
+		"intersectSumArea" : 2.8741086749159603e-7,
+		"AD.total_count" : "23",
+		"ORAN" : "0.22032433922646388"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 416,
+		"Shape_Area.sum" : 6.83030651228e-7,
+		"intersectSumArea" : 2.77501230194921e-7,
+		"AD.total_count" : "4",
+		"ORAN" : "0.40627932245208903"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 217,
+		"Shape_Area.sum" : 7.531629865344e-7,
+		"intersectSumArea" : 8.0366321956771e-8,
+		"AD.total_count" : "11",
+		"ORAN" : "0.10670508693817808"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 100,
+		"Shape_Area.sum" : 2.1775005265757e-6,
+		"intersectSumArea" : 4.731145389241239e-7,
+		"AD.total_count" : "79",
+		"ORAN" : "0.21727413295653056"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 83,
+		"Shape_Area.sum" : 6.160560838301e-7,
+		"intersectSumArea" : 1.45271520146673e-7,
+		"AD.total_count" : "34",
+		"ORAN" : "0.23580892058317363"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 413,
+		"Shape_Area.sum" : 5.608205434621e-7,
+		"intersectSumArea" : 2.100332596955967e-7,
+		"AD.total_count" : "41",
+		"ORAN" : "0.3745106382854726"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 272,
+		"Shape_Area.sum" : 2.713741519425e-7,
+		"intersectSumArea" : 6.2403835572028e-8,
+		"AD.total_count" : "5",
+		"ORAN" : "0.22995497222318506"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 389,
+		"Shape_Area.sum" : 4.19912429164e-7,
+		"intersectSumArea" : 6.426775219708001e-8,
+		"AD.total_count" : "7",
+		"ORAN" : "0.15305036891865792"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 406,
+		"Shape_Area.sum" : 2.96432312645e-7,
+		"intersectSumArea" : 9.519291879111e-8,
+		"AD.total_count" : "7",
+		"ORAN" : "0.3211286851346421"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 146,
+		"Shape_Area.sum" : 1.8674439090760002e-7,
+		"intersectSumArea" : 7.2933402406381e-8,
+		"AD.total_count" : "15",
+		"ORAN" : "0.39055203774483377"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 113,
+		"Shape_Area.sum" : 1.99654099573e-7,
+		"intersectSumArea" : 5.7743998969279995e-8,
+		"AD.total_count" : "3",
+		"ORAN" : "0.2892202018029032"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 357,
+		"Shape_Area.sum" : 5.037991068003e-7,
+		"intersectSumArea" : 1.2704342356763601e-7,
+		"AD.total_count" : "15",
+		"ORAN" : "0.2521707995365592"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 405,
+		"Shape_Area.sum" : 2.96432312645e-7,
+		"intersectSumArea" : 9.519291879111e-8,
+		"AD.total_count" : "7",
+		"ORAN" : "0.3211286851346421"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 449,
+		"Shape_Area.sum" : 1.3044898648087e-6,
+		"intersectSumArea" : 2.8741086749159603e-7,
+		"AD.total_count" : "23",
+		"ORAN" : "0.22032433922646388"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 353,
+		"Shape_Area.sum" : 1.97992799444e-6,
+		"intersectSumArea" : 2.0709966544597452e-7,
+		"AD.total_count" : "12",
+		"ORAN" : "0.10459959454462397"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 173,
+		"Shape_Area.sum" : 6.589177980682001e-7,
+		"intersectSumArea" : 2.169636287444616e-7,
+		"AD.total_count" : "32",
+		"ORAN" : "0.3292726792030061"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 145,
+		"Shape_Area.sum" : 9.74229724595e-8,
+		"intersectSumArea" : 4.133579414207e-8,
+		"AD.total_count" : "8",
+		"ORAN" : "0.42429206478229586"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 196,
+		"Shape_Area.sum" : 5.167366916869001e-7,
+		"intersectSumArea" : 3.5849472548254177e-7,
+		"AD.total_count" : "28",
+		"ORAN" : "0.6937667311996495"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 203,
+		"Shape_Area.sum" : 2.385040535927e-7,
+		"intersectSumArea" : 2.1118484246881e-8,
+		"AD.total_count" : "7",
+		"ORAN" : "0.0885455988221719"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 143,
+		"Shape_Area.sum" : 5.67686285618e-7,
+		"intersectSumArea" : 2.3426242964439747e-7,
+		"AD.total_count" : "32",
+		"ORAN" : "0.41266177390452985"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 155,
+		"Shape_Area.sum" : 1.30316509409e-7,
+		"intersectSumArea" : 6.13562258210047e-8,
+		"AD.total_count" : "7",
+		"ORAN" : "0.4708246568240822"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 220,
+		"Shape_Area.sum" : 1.51420394319e-6,
+		"intersectSumArea" : 5.668269436447e-8,
+		"AD.total_count" : "7",
+		"ORAN" : "0.037433989403736184"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 455,
+		"Shape_Area.sum" : 9.90811334069e-8,
+		"intersectSumArea" : 5.5835244395523333e-8,
+		"AD.total_count" : "10",
+		"ORAN" : "0.5635305378090777"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 319,
+		"Shape_Area.sum" : 7.62743326739e-9,
+		"intersectSumArea" : 9.8936385688e-10,
+		"AD.total_count" : "1",
+		"ORAN" : "0.12971124390034114"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 468,
+		"Shape_Area.sum" : 2.78618563238e-7,
+		"intersectSumArea" : 8.1532195636534e-8,
+		"AD.total_count" : "13",
+		"ORAN" : "0.29263016322027335"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 437,
+		"Shape_Area.sum" : 2.8306945629366e-6,
+		"intersectSumArea" : 7.521354458977561e-7,
+		"AD.total_count" : "52",
+		"ORAN" : "0.26570703026238224"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 269,
+		"Shape_Area.sum" : 3.5621177003169995e-6,
+		"intersectSumArea" : 3.20892153696231e-7,
+		"AD.total_count" : "18",
+		"ORAN" : "0.0900846576932801"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 289,
+		"Shape_Area.sum" : 4.33309535647e-7,
+		"intersectSumArea" : 1.812670500232e-7,
+		"AD.total_count" : "6",
+		"ORAN" : "0.4183315507989906"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 421,
+		"Shape_Area.sum" : 1.9061464287e-7,
+		"intersectSumArea" : 4.211183341057e-8,
+		"AD.total_count" : "5",
+		"ORAN" : "0.2209265394122447"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 14,
+		"Shape_Area.sum" : 4.784706590280001e-7,
+		"intersectSumArea" : 1.0431672948361123e-7,
+		"AD.total_count" : "24",
+		"ORAN" : "0.21802116287658638"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 108,
+		"Shape_Area.sum" : 5.450441391086e-7,
+		"intersectSumArea" : 2.8828571305590455e-7,
+		"AD.total_count" : "33",
+		"ORAN" : "0.5289217741656399"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 306,
+		"Shape_Area.sum" : 5.33971596445e-7,
+		"intersectSumArea" : 9.37583137724288e-8,
+		"AD.total_count" : "17",
+		"ORAN" : "0.17558670610317018"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 236,
+		"Shape_Area.sum" : 1.7511966141420898e-6,
+		"intersectSumArea" : 1.3151451742721e-7,
+		"AD.total_count" : "8",
+		"ORAN" : "0.07509980111036184"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 27,
+		"Shape_Area.sum" : 4.418363029890001e-6,
+		"intersectSumArea" : 6.195930711317143e-7,
+		"AD.total_count" : "56",
+		"ORAN" : "0.14023136327644395"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 132,
+		"Shape_Area.sum" : 5.246781431737e-6,
+		"intersectSumArea" : 7.44163626944528e-7,
+		"AD.total_count" : "87",
+		"ORAN" : "0.1418324046134632"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 445,
+		"Shape_Area.sum" : 5.455516848200001e-7,
+		"intersectSumArea" : 8.4820236372313e-8,
+		"AD.total_count" : "29",
+		"ORAN" : "0.15547607812869038"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 296,
+		"Shape_Area.sum" : 8.20142026652e-8,
+		"intersectSumArea" : 1.541818296234e-8,
+		"AD.total_count" : "2",
+		"ORAN" : "0.18799406031270477"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 246,
+		"Shape_Area.sum" : 1.1488294486999999e-6,
+		"intersectSumArea" : 3.780448647107873e-7,
+		"AD.total_count" : "22",
+		"ORAN" : "0.32906961528412926"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 346,
+		"Shape_Area.sum" : 7.62743326739e-9,
+		"intersectSumArea" : 9.8936385688e-10,
+		"AD.total_count" : "1",
+		"ORAN" : "0.12971124390034114"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 316,
+		"Shape_Area.sum" : 1.7910812289273899e-6,
+		"intersectSumArea" : 4.0523242843463807e-7,
+		"AD.total_count" : "82",
+		"ORAN" : "0.22625016771423387"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 172,
+		"Shape_Area.sum" : 1.6161803912032e-7,
+		"intersectSumArea" : 6.642105114116602e-8,
+		"AD.total_count" : "11",
+		"ORAN" : "0.41097547961040076"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 181,
+		"Shape_Area.sum" : 7.18909937279e-8,
+		"intersectSumArea" : 3.142503532438e-8,
+		"AD.total_count" : "12",
+		"ORAN" : "0.43712061406913527"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 260,
+		"Shape_Area.sum" : 1.6326830262245e-6,
+		"intersectSumArea" : 4.64293727251279e-7,
+		"AD.total_count" : "32",
+		"ORAN" : "0.284374688652785"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 321,
+		"Shape_Area.sum" : 2.6623766768421896e-7,
+		"intersectSumArea" : 4.4599909433191e-8,
+		"AD.total_count" : "14",
+		"ORAN" : "0.16751915617774407"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 385,
+		"Shape_Area.sum" : 3.1434859662639997e-7,
+		"intersectSumArea" : 1.0279654596037663e-7,
+		"AD.total_count" : "23",
+		"ORAN" : "0.32701448984850806"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 396,
+		"Shape_Area.sum" : 2.187977408197e-7,
+		"intersectSumArea" : 1.0049273870903903e-7,
+		"AD.total_count" : "15",
+		"ORAN" : "0.4592951386634743"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 149,
+		"Shape_Area.sum" : 1.76721370184e-6,
+		"intersectSumArea" : 2.127789075498e-8,
+		"AD.total_count" : "2",
+		"ORAN" : "0.012040360898529553"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 399,
+		"Shape_Area.sum" : 3.85019625625e-7,
+		"intersectSumArea" : 5.051956770256849e-8,
+		"AD.total_count" : "12",
+		"ORAN" : "0.13121296770407584"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 259,
+		"Shape_Area.sum" : 2.734001442184e-7,
+		"intersectSumArea" : 9.915655874734419e-8,
+		"AD.total_count" : "16",
+		"ORAN" : "0.3626792481430992"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 281,
+		"Shape_Area.sum" : 4.66461033502e-6,
+		"intersectSumArea" : 2.9323246460866e-7,
+		"AD.total_count" : "8",
+		"ORAN" : "0.06286322834025165"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 342,
+		"Shape_Area.sum" : 8.20741589782e-7,
+		"intersectSumArea" : 1.213420132429756e-7,
+		"AD.total_count" : "12",
+		"ORAN" : "0.1478443577779526"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 224,
+		"Shape_Area.sum" : 5.100416269208001e-7,
+		"intersectSumArea" : 5.2833714860628835e-8,
+		"AD.total_count" : "17",
+		"ORAN" : "0.10358706441196597"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 461,
+		"Shape_Area.sum" : 1.0235114883921e-6,
+		"intersectSumArea" : 1.3515036852860362e-7,
+		"AD.total_count" : "39",
+		"ORAN" : "0.1320457758035721"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 373,
+		"Shape_Area.sum" : 1.97992799444e-6,
+		"intersectSumArea" : 2.0709966544597452e-7,
+		"AD.total_count" : "12",
+		"ORAN" : "0.10459959454462397"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 392,
+		"Shape_Area.sum" : 1.77920449952e-7,
+		"intersectSumArea" : 6.440278186884902e-8,
+		"AD.total_count" : "16",
+		"ORAN" : "0.36197515173901496"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 363,
+		"Shape_Area.sum" : 1.34026924648473e-6,
+		"intersectSumArea" : 1.3870111967723998e-7,
+		"AD.total_count" : "23",
+		"ORAN" : "0.1034875045003282"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 114,
+		"Shape_Area.sum" : 5.67686285618e-7,
+		"intersectSumArea" : 2.3426242964439747e-7,
+		"AD.total_count" : "32",
+		"ORAN" : "0.41266177390452985"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 166,
+		"Shape_Area.sum" : 8.661064447798e-7,
+		"intersectSumArea" : 3.0930279664564475e-7,
+		"AD.total_count" : "48",
+		"ORAN" : "0.3571186873274939"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 426,
+		"Shape_Area.sum" : 8.487056157199e-7,
+		"intersectSumArea" : 2.694655157626511e-7,
+		"AD.total_count" : "26",
+		"ORAN" : "0.31750174709764534"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 354,
+		"Shape_Area.sum" : 1.0084904346e-6,
+		"intersectSumArea" : 6.455319268636741e-8,
+		"AD.total_count" : "9",
+		"ORAN" : "0.06400972232520113"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 208,
+		"Shape_Area.sum" : 4.66097884976e-7,
+		"intersectSumArea" : 6.7803175008294e-8,
+		"AD.total_count" : "5",
+		"ORAN" : "0.14546981909558607"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 197,
+		"Shape_Area.sum" : 5.167366916869001e-7,
+		"intersectSumArea" : 3.5849472548254177e-7,
+		"AD.total_count" : "28",
+		"ORAN" : "0.6937667311996495"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 283,
+		"Shape_Area.sum" : 3.88195330133e-6,
+		"intersectSumArea" : 3.891771970333e-8,
+		"AD.total_count" : "5",
+		"ORAN" : "0.010025293114679241"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 270,
+		"Shape_Area.sum" : 3.5621177003169995e-6,
+		"intersectSumArea" : 3.20892153696231e-7,
+		"AD.total_count" : "18",
+		"ORAN" : "0.0900846576932801"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 471,
+		"Shape_Area.sum" : 2.8669248037369996e-7,
+		"intersectSumArea" : 2.8167839345268003e-8,
+		"AD.total_count" : "10",
+		"ORAN" : "0.09825105739973224"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 129,
+		"Shape_Area.sum" : 4.54873184703e-7,
+		"intersectSumArea" : 2.2958700440829e-8,
+		"AD.total_count" : "6",
+		"ORAN" : "0.05047274979688989"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 409,
+		"Shape_Area.sum" : 2.8306945629366e-6,
+		"intersectSumArea" : 7.521354458977561e-7,
+		"AD.total_count" : "52",
+		"ORAN" : "0.26570703026238224"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 85,
+		"Shape_Area.sum" : 1.99654099573e-7,
+		"intersectSumArea" : 5.774399896928e-8,
+		"AD.total_count" : "3",
+		"ORAN" : "0.28922020180290325"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 258,
+		"Shape_Area.sum" : 2.734001442184e-7,
+		"intersectSumArea" : 9.915655874734419e-8,
+		"AD.total_count" : "16",
+		"ORAN" : "0.3626792481430992"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 144,
+		"Shape_Area.sum" : 5.67686285618e-7,
+		"intersectSumArea" : 2.3426242964439747e-7,
+		"AD.total_count" : "32",
+		"ORAN" : "0.41266177390452985"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 28,
+		"Shape_Area.sum" : 4.418363029890001e-6,
+		"intersectSumArea" : 6.195930711317143e-7,
+		"AD.total_count" : "56",
+		"ORAN" : "0.14023136327644395"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 79,
+		"Shape_Area.sum" : 1.0424312927594e-6,
+		"intersectSumArea" : 2.95950526021264e-7,
+		"AD.total_count" : "46",
+		"ORAN" : "0.2839041077113668"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 467,
+		"Shape_Area.sum" : 2.8669248037369996e-7,
+		"intersectSumArea" : 2.8167839345268003e-8,
+		"AD.total_count" : "10",
+		"ORAN" : "0.09825105739973224"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 248,
+		"Shape_Area.sum" : 3.38118158969e-6,
+		"intersectSumArea" : 2.08969058356397e-7,
+		"AD.total_count" : "13",
+		"ORAN" : "0.061803559735919444"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 401,
+		"Shape_Area.sum" : 1.7248868871424002e-6,
+		"intersectSumArea" : 8.84635280426006e-7,
+		"AD.total_count" : "22",
+		"ORAN" : "0.5128656765960874"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 110,
+		"Shape_Area.sum" : 6.160560838301e-7,
+		"intersectSumArea" : 1.45271520146673e-7,
+		"AD.total_count" : "34",
+		"ORAN" : "0.23580892058317363"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 257,
+		"Shape_Area.sum" : 2.833669183124e-7,
+		"intersectSumArea" : 8.96173800400232e-8,
+		"AD.total_count" : "25",
+		"ORAN" : "0.31625914758766527"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 16,
+		"Shape_Area.sum" : 3.007659824177e-7,
+		"intersectSumArea" : 4.84932659399301e-8,
+		"AD.total_count" : "15",
+		"ORAN" : "0.16123254880794086"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 103,
+		"Shape_Area.sum" : 9.8971560922516e-7,
+		"intersectSumArea" : 2.197928734203108e-7,
+		"AD.total_count" : "32",
+		"ORAN" : "0.22207679799289493"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 477,
+		"Shape_Area.sum" : 4.08589954068e-7,
+		"intersectSumArea" : 1.1068034821536999e-8,
+		"AD.total_count" : "5",
+		"ORAN" : "0.027088367472918803"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 383,
+		"Shape_Area.sum" : 7.79668827633e-8,
+		"intersectSumArea" : 1.3777831137310001e-8,
+		"AD.total_count" : "5",
+		"ORAN" : "0.17671388991064552"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 136,
+		"Shape_Area.sum" : 8.661064447798e-7,
+		"intersectSumArea" : 3.0930279664564475e-7,
+		"AD.total_count" : "48",
+		"ORAN" : "0.3571186873274939"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 152,
+		"Shape_Area.sum" : 7.18909937279e-8,
+		"intersectSumArea" : 3.1425035324379995e-8,
+		"AD.total_count" : "12",
+		"ORAN" : "0.43712061406913516"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 109,
+		"Shape_Area.sum" : 5.450441391086e-7,
+		"intersectSumArea" : 2.8828571305590455e-7,
+		"AD.total_count" : "33",
+		"ORAN" : "0.5289217741656399"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 274,
+		"Shape_Area.sum" : 7.71782847815e-6,
+		"intersectSumArea" : 9.741921993401067e-7,
+		"AD.total_count" : "82",
+		"ORAN" : "0.12622620496142786"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 262,
+		"Shape_Area.sum" : 1.372649506518e-6,
+		"intersectSumArea" : 2.8230101350729894e-7,
+		"AD.total_count" : "24",
+		"ORAN" : "0.2056613958383389"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 372,
+		"Shape_Area.sum" : 3.8422754990000003e-7,
+		"intersectSumArea" : 6.564816572672868e-8,
+		"AD.total_count" : "14",
+		"ORAN" : "0.1708575185298775"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 311,
+		"Shape_Area.sum" : 4.66461033502e-6,
+		"intersectSumArea" : 2.9323246460866e-7,
+		"AD.total_count" : "8",
+		"ORAN" : "0.06286322834025165"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 183,
+		"Shape_Area.sum" : 1.30316509409e-7,
+		"intersectSumArea" : 6.13562258210047e-8,
+		"AD.total_count" : "7",
+		"ORAN" : "0.4708246568240822"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 141,
+		"Shape_Area.sum" : 8.766063096966e-7,
+		"intersectSumArea" : 1.8380253280844402e-7,
+		"AD.total_count" : "58",
+		"ORAN" : "0.20967511957797733"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 446,
+		"Shape_Area.sum" : 5.455516848200001e-7,
+		"intersectSumArea" : 8.482023637231301e-8,
+		"AD.total_count" : "29",
+		"ORAN" : "0.1554760781286904"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 230,
+		"Shape_Area.sum" : 1.6326830262245e-6,
+		"intersectSumArea" : 4.642937272512791e-7,
+		"AD.total_count" : "32",
+		"ORAN" : "0.28437468865278503"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 137,
+		"Shape_Area.sum" : 8.661064447798e-7,
+		"intersectSumArea" : 3.0930279664564475e-7,
+		"AD.total_count" : "48",
+		"ORAN" : "0.3571186873274939"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 313,
+		"Shape_Area.sum" : 3.88195330133e-6,
+		"intersectSumArea" : 3.891771970333e-8,
+		"AD.total_count" : "5",
+		"ORAN" : "0.010025293114679241"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 227,
+		"Shape_Area.sum" : 2.734001442184e-7,
+		"intersectSumArea" : 9.91565587473442e-8,
+		"AD.total_count" : "16",
+		"ORAN" : "0.3626792481430992"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 167,
+		"Shape_Area.sum" : 5.167366916869001e-7,
+		"intersectSumArea" : 3.5849472548254177e-7,
+		"AD.total_count" : "28",
+		"ORAN" : "0.6937667311996495"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 324,
+		"Shape_Area.sum" : 3.46951032059e-8,
+		"intersectSumArea" : 9.43823237868e-9,
+		"AD.total_count" : "2",
+		"ORAN" : "0.2720335582421614"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 117,
+		"Shape_Area.sum" : 7.62685988517e-7,
+		"intersectSumArea" : 1.3901279402745998e-7,
+		"AD.total_count" : "9",
+		"ORAN" : "0.18226740247026504"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 96,
+		"Shape_Area.sum" : 4.20411882444e-8,
+		"intersectSumArea" : 3.45560035811497e-8,
+		"AD.total_count" : "11",
+		"ORAN" : "0.8219559204716973"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 472,
+		"Shape_Area.sum" : 2.8669248037369996e-7,
+		"intersectSumArea" : 2.8167839345268003e-8,
+		"AD.total_count" : "10",
+		"ORAN" : "0.09825105739973224"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 128,
+		"Shape_Area.sum" : 2.1775005265757e-6,
+		"intersectSumArea" : 4.731145389241238e-7,
+		"AD.total_count" : "79",
+		"ORAN" : "0.2172741329565305"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 135,
+		"Shape_Area.sum" : 8.1665178975e-7,
+		"intersectSumArea" : 5.313712642376082e-7,
+		"AD.total_count" : "32",
+		"ORAN" : "0.6506705439294705"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 322,
+		"Shape_Area.sum" : 2.449205723313e-7,
+		"intersectSumArea" : 1.657620585569e-8,
+		"AD.total_count" : "6",
+		"ORAN" : "0.06767992454822308"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 225,
+		"Shape_Area.sum" : 2.833669183124e-7,
+		"intersectSumArea" : 8.96173800400232e-8,
+		"AD.total_count" : "25",
+		"ORAN" : "0.31625914758766527"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 436,
+		"Shape_Area.sum" : 3.0287415471e-7,
+		"intersectSumArea" : 3.87071299303454e-8,
+		"AD.total_count" : "15",
+		"ORAN" : "0.1277993824445246"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 417,
+		"Shape_Area.sum" : 1.7248868871424002e-6,
+		"intersectSumArea" : 8.84635280426006e-7,
+		"AD.total_count" : "22",
+		"ORAN" : "0.5128656765960874"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 397,
+		"Shape_Area.sum" : 3.85019625625e-7,
+		"intersectSumArea" : 5.051956770256849e-8,
+		"AD.total_count" : "12",
+		"ORAN" : "0.13121296770407584"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 98,
+		"Shape_Area.sum" : 1.968405768112e-7,
+		"intersectSumArea" : 7.709905020350467e-8,
+		"AD.total_count" : "15",
+		"ORAN" : "0.3916827081717728"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 268,
+		"Shape_Area.sum" : 1.3711542808318e-6,
+		"intersectSumArea" : 2.9985183322600004e-8,
+		"AD.total_count" : "2",
+		"ORAN" : "0.021868569964577384"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 454,
+		"Shape_Area.sum" : 5.455516848200001e-7,
+		"intersectSumArea" : 8.482023637231301e-8,
+		"AD.total_count" : "29",
+		"ORAN" : "0.1554760781286904"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 433,
+		"Shape_Area.sum" : 1.2293323907799998e-6,
+		"intersectSumArea" : 5.235915792070888e-7,
+		"AD.total_count" : "30",
+		"ORAN" : "0.425915385565392"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 206,
+		"Shape_Area.sum" : 1.7511966141420898e-6,
+		"intersectSumArea" : 1.3151451742721e-7,
+		"AD.total_count" : "8",
+		"ORAN" : "0.07509980111036184"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 422,
+		"Shape_Area.sum" : 1.9061464287e-7,
+		"intersectSumArea" : 4.211183341057e-8,
+		"AD.total_count" : "5",
+		"ORAN" : "0.2209265394122447"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 140,
+		"Shape_Area.sum" : 8.766063096966e-7,
+		"intersectSumArea" : 1.8380253280844402e-7,
+		"AD.total_count" : "58",
+		"ORAN" : "0.20967511957797733"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 62,
+		"Shape_Area.sum" : 5.71358493098e-8,
+		"intersectSumArea" : 1.297596274004113e-8,
+		"AD.total_count" : "7",
+		"ORAN" : "0.22710719971419902"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 59,
+		"Shape_Area.sum" : 7.86749274878494e-8,
+		"intersectSumArea" : 5.342019553976401e-8,
+		"AD.total_count" : "16",
+		"ORAN" : "0.678998980304294"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 228,
+		"Shape_Area.sum" : 2.734001442184e-7,
+		"intersectSumArea" : 9.915655874734419e-8,
+		"AD.total_count" : "16",
+		"ORAN" : "0.3626792481430992"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 249,
+		"Shape_Area.sum" : 3.38118158969e-6,
+		"intersectSumArea" : 2.08969058356397e-7,
+		"AD.total_count" : "13",
+		"ORAN" : "0.061803559735919444"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 470,
+		"Shape_Area.sum" : 1.6394597921972e-7,
+		"intersectSumArea" : 1.5853206794665998e-8,
+		"AD.total_count" : "5",
+		"ORAN" : "0.09669774684391355"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 368,
+		"Shape_Area.sum" : 1.071439511693e-6,
+		"intersectSumArea" : 4.834522939745e-8,
+		"AD.total_count" : "5",
+		"ORAN" : "0.045121753369967536"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 102,
+		"Shape_Area.sum" : 9.8971560922516e-7,
+		"intersectSumArea" : 2.197928734203108e-7,
+		"AD.total_count" : "32",
+		"ORAN" : "0.22207679799289493"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 402,
+		"Shape_Area.sum" : 1.7248868871424002e-6,
+		"intersectSumArea" : 8.84635280426006e-7,
+		"AD.total_count" : "22",
+		"ORAN" : "0.5128656765960874"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 326,
+		"Shape_Area.sum" : 6.692931976e-8,
+		"intersectSumArea" : 1.263162050842e-8,
+		"AD.total_count" : "2",
+		"ORAN" : "0.1887307469090584"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 443,
+		"Shape_Area.sum" : 1.3642046840869999e-6,
+		"intersectSumArea" : 6.339825045051597e-7,
+		"AD.total_count" : "25",
+		"ORAN" : "0.4647268198829381"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 240,
+		"Shape_Area.sum" : 2.713741519425e-7,
+		"intersectSumArea" : 6.240383557202801e-8,
+		"AD.total_count" : "5",
+		"ORAN" : "0.22995497222318512"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 386,
+		"Shape_Area.sum" : 1.071439511693e-6,
+		"intersectSumArea" : 4.834522939745e-8,
+		"AD.total_count" : "5",
+		"ORAN" : "0.045121753369967536"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 350,
+		"Shape_Area.sum" : 2.449205723313e-7,
+		"intersectSumArea" : 1.657620585569e-8,
+		"AD.total_count" : "6",
+		"ORAN" : "0.06767992454822308"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 335,
+		"Shape_Area.sum" : 8.12469230962e-7,
+		"intersectSumArea" : 3.0670854574597296e-7,
+		"AD.total_count" : "42",
+		"ORAN" : "0.37750173675231524"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 243,
+		"Shape_Area.sum" : 7.71782847815e-6,
+		"intersectSumArea" : 9.74192199340107e-7,
+		"AD.total_count" : "82",
+		"ORAN" : "0.1262262049614279"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 318,
+		"Shape_Area.sum" : 7.62743326739e-9,
+		"intersectSumArea" : 9.8936385688e-10,
+		"AD.total_count" : "1",
+		"ORAN" : "0.12971124390034114"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 407,
+		"Shape_Area.sum" : 1.77920449952e-7,
+		"intersectSumArea" : 6.440278186884902e-8,
+		"AD.total_count" : "16",
+		"ORAN" : "0.36197515173901496"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 393,
+		"Shape_Area.sum" : 1.5150570653680001e-6,
+		"intersectSumArea" : 4.004599362433891e-7,
+		"AD.total_count" : "14",
+		"ORAN" : "0.2643200348008801"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 317,
+		"Shape_Area.sum" : 1.97971630968e-7,
+		"intersectSumArea" : 8.9690968137107e-9,
+		"AD.total_count" : "11",
+		"ORAN" : "0.04530495995742167"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 19,
+		"Shape_Area.sum" : 4.784706590280001e-7,
+		"intersectSumArea" : 1.043167294836112e-7,
+		"AD.total_count" : "24",
+		"ORAN" : "0.21802116287658632"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 212,
+		"Shape_Area.sum" : 1.686557415017e-6,
+		"intersectSumArea" : 1.1365240767305099e-7,
+		"AD.total_count" : "5",
+		"ORAN" : "0.06738721531867055"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 169,
+		"Shape_Area.sum" : 3.3863929702375004e-6,
+		"intersectSumArea" : 4.301914357457623e-7,
+		"AD.total_count" : "67",
+		"ORAN" : "0.12703529670851854"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 425,
+		"Shape_Area.sum" : 2.8306945629366e-6,
+		"intersectSumArea" : 7.521354458977561e-7,
+		"AD.total_count" : "52",
+		"ORAN" : "0.26570703026238224"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 384,
+		"Shape_Area.sum" : 3.1434859662639997e-7,
+		"intersectSumArea" : 1.0279654596037663e-7,
+		"AD.total_count" : "23",
+		"ORAN" : "0.32701448984850806"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 74,
+		"Shape_Area.sum" : 1.89537784117e-8,
+		"intersectSumArea" : 1.67425357866e-9,
+		"AD.total_count" : "1",
+		"ORAN" : "0.08833349964809645"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 462,
+		"Shape_Area.sum" : 1.0235114883921e-6,
+		"intersectSumArea" : 1.3515036852860362e-7,
+		"AD.total_count" : "39",
+		"ORAN" : "0.1320457758035721"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 377,
+		"Shape_Area.sum" : 5.037991068003e-7,
+		"intersectSumArea" : 1.27043423567636e-7,
+		"AD.total_count" : "15",
+		"ORAN" : "0.25217079953655913"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 97,
+		"Shape_Area.sum" : 4.20411882444e-8,
+		"intersectSumArea" : 3.45560035811497e-8,
+		"AD.total_count" : "11",
+		"ORAN" : "0.8219559204716973"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 391,
+		"Shape_Area.sum" : 1.77920449952e-7,
+		"intersectSumArea" : 6.440278186884902e-8,
+		"AD.total_count" : "16",
+		"ORAN" : "0.36197515173901496"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 254,
+		"Shape_Area.sum" : 4.04416421829e-8,
+		"intersectSumArea" : 1.35145654893e-8,
+		"AD.total_count" : "3",
+		"ORAN" : "0.3341744983593763"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 142,
+		"Shape_Area.sum" : 5.67686285618e-7,
+		"intersectSumArea" : 2.3426242964439747e-7,
+		"AD.total_count" : "32",
+		"ORAN" : "0.41266177390452985"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 370,
+		"Shape_Area.sum" : 4.19912429164e-7,
+		"intersectSumArea" : 6.426775219708001e-8,
+		"AD.total_count" : "7",
+		"ORAN" : "0.15305036891865792"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 351,
+		"Shape_Area.sum" : 3.8422754990000003e-7,
+		"intersectSumArea" : 6.564816572672868e-8,
+		"AD.total_count" : "14",
+		"ORAN" : "0.1708575185298775"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 185,
+		"Shape_Area.sum" : 2.2063543529220104e-6,
+		"intersectSumArea" : 2.687229697165732e-7,
+		"AD.total_count" : "62",
+		"ORAN" : "0.12179501871976589"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 147,
+		"Shape_Area.sum" : 7.62685988517e-7,
+		"intersectSumArea" : 1.3901279402745998e-7,
+		"AD.total_count" : "9",
+		"ORAN" : "0.18226740247026504"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 463,
+		"Shape_Area.sum" : 9.90811334069e-8,
+		"intersectSumArea" : 5.583524439552333e-8,
+		"AD.total_count" : "10",
+		"ORAN" : "0.5635305378090777"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 184,
+		"Shape_Area.sum" : 2.2063543529220104e-6,
+		"intersectSumArea" : 2.687229697165732e-7,
+		"AD.total_count" : "62",
+		"ORAN" : "0.12179501871976589"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 432,
+		"Shape_Area.sum" : 1.2293323907799998e-6,
+		"intersectSumArea" : 5.235915792070888e-7,
+		"AD.total_count" : "30",
+		"ORAN" : "0.425915385565392"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 469,
+		"Shape_Area.sum" : 2.78618563238e-7,
+		"intersectSumArea" : 8.1532195636534e-8,
+		"AD.total_count" : "13",
+		"ORAN" : "0.29263016322027335"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 195,
+		"Shape_Area.sum" : 5.100416269208001e-7,
+		"intersectSumArea" : 5.2833714860628835e-8,
+		"AD.total_count" : "17",
+		"ORAN" : "0.10358706441196597"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 331,
+		"Shape_Area.sum" : 4.06229014374e-7,
+		"intersectSumArea" : 1.028617068299177e-7,
+		"AD.total_count" : "11",
+		"ORAN" : "0.25321112768970444"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 116,
+		"Shape_Area.sum" : 9.74229724595e-8,
+		"intersectSumArea" : 4.133579414207e-8,
+		"AD.total_count" : "8",
+		"ORAN" : "0.42429206478229586"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 139,
+		"Shape_Area.sum" : 1.8077176678844002e-7,
+		"intersectSumArea" : 4.288771214228e-8,
+		"AD.total_count" : "7",
+		"ORAN" : "0.2372478451929507"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 301,
+		"Shape_Area.sum" : 4.06229014374e-7,
+		"intersectSumArea" : 1.028617068299177e-7,
+		"AD.total_count" : "11",
+		"ORAN" : "0.25321112768970444"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 456,
+		"Shape_Area.sum" : 9.90811334069e-8,
+		"intersectSumArea" : 5.5835244395523333e-8,
+		"AD.total_count" : "10",
+		"ORAN" : "0.5635305378090777"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 264,
+		"Shape_Area.sum" : 4.9512931129356e-7,
+		"intersectSumArea" : 1.09447637351826e-7,
+		"AD.total_count" : "24",
+		"ORAN" : "0.22104859246948314"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 369,
+		"Shape_Area.sum" : 4.19912429164e-7,
+		"intersectSumArea" : 6.426775219708001e-8,
+		"AD.total_count" : "7",
+		"ORAN" : "0.15305036891865792"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 453,
+		"Shape_Area.sum" : 1.0235114883921e-6,
+		"intersectSumArea" : 1.3515036852860362e-7,
+		"AD.total_count" : "39",
+		"ORAN" : "0.1320457758035721"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 82,
+		"Shape_Area.sum" : 6.160560838301e-7,
+		"intersectSumArea" : 1.45271520146673e-7,
+		"AD.total_count" : "34",
+		"ORAN" : "0.23580892058317363"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 330,
+		"Shape_Area.sum" : 4.06229014374e-7,
+		"intersectSumArea" : 1.028617068299177e-7,
+		"AD.total_count" : "11",
+		"ORAN" : "0.25321112768970444"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 278,
+		"Shape_Area.sum" : 1.1488294486999999e-6,
+		"intersectSumArea" : 3.780448647107873e-7,
+		"AD.total_count" : "22",
+		"ORAN" : "0.32906961528412926"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 160,
+		"Shape_Area.sum" : 5.246781431737e-6,
+		"intersectSumArea" : 7.44163626944528e-7,
+		"AD.total_count" : "87",
+		"ORAN" : "0.1418324046134632"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 127,
+		"Shape_Area.sum" : 1.968405768112e-7,
+		"intersectSumArea" : 7.709905020350467e-8,
+		"AD.total_count" : "15",
+		"ORAN" : "0.3916827081717728"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 168,
+		"Shape_Area.sum" : 1.8077176678844002e-7,
+		"intersectSumArea" : 4.288771214228e-8,
+		"AD.total_count" : "7",
+		"ORAN" : "0.2372478451929507"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 237,
+		"Shape_Area.sum" : 4.66097884976e-7,
+		"intersectSumArea" : 6.7803175008294e-8,
+		"AD.total_count" : "5",
+		"ORAN" : "0.14546981909558607"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 199,
+		"Shape_Area.sum" : 3.3863929702375004e-6,
+		"intersectSumArea" : 4.301914357457623e-7,
+		"AD.total_count" : "67",
+		"ORAN" : "0.12703529670851854"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 349,
+		"Shape_Area.sum" : 2.449205723313e-7,
+		"intersectSumArea" : 1.657620585569e-8,
+		"AD.total_count" : "6",
+		"ORAN" : "0.06767992454822308"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 398,
+		"Shape_Area.sum" : 3.85019625625e-7,
+		"intersectSumArea" : 5.051956770256849e-8,
+		"AD.total_count" : "12",
+		"ORAN" : "0.13121296770407584"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 161,
+		"Shape_Area.sum" : 5.246781431737e-6,
+		"intersectSumArea" : 7.441636269445283e-7,
+		"AD.total_count" : "87",
+		"ORAN" : "0.14183240461346328"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 332,
+		"Shape_Area.sum" : 3.39201511217e-6,
+		"intersectSumArea" : 6.99323411068417e-7,
+		"AD.total_count" : "31",
+		"ORAN" : "0.20616753992615128"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 80,
+		"Shape_Area.sum" : 5.450441391086e-7,
+		"intersectSumArea" : 2.8828571305590466e-7,
+		"AD.total_count" : "33",
+		"ORAN" : "0.5289217741656401"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 314,
+		"Shape_Area.sum" : 9.97252435769e-8,
+		"intersectSumArea" : 4.6583289705667e-8,
+		"AD.total_count" : "2",
+		"ORAN" : "0.46711632917442564"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 233,
+		"Shape_Area.sum" : 2.385040535927e-7,
+		"intersectSumArea" : 2.1118484246881e-8,
+		"AD.total_count" : "7",
+		"ORAN" : "0.0885455988221719"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 282,
+		"Shape_Area.sum" : 3.88195330133e-6,
+		"intersectSumArea" : 3.891771970333e-8,
+		"AD.total_count" : "5",
+		"ORAN" : "0.010025293114679241"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 411,
+		"Shape_Area.sum" : 8.487056157199e-7,
+		"intersectSumArea" : 2.69465515762651e-7,
+		"AD.total_count" : "26",
+		"ORAN" : "0.3175017470976453"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 300,
+		"Shape_Area.sum" : 4.06229014374e-7,
+		"intersectSumArea" : 1.028617068299177e-7,
+		"AD.total_count" : "11",
+		"ORAN" : "0.25321112768970444"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 305,
+		"Shape_Area.sum" : 8.12469230962e-7,
+		"intersectSumArea" : 3.0670854574597296e-7,
+		"AD.total_count" : "42",
+		"ORAN" : "0.37750173675231524"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 242,
+		"Shape_Area.sum" : 7.71782847815e-6,
+		"intersectSumArea" : 9.74192199340107e-7,
+		"AD.total_count" : "82",
+		"ORAN" : "0.1262262049614279"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 424,
+		"Shape_Area.sum" : 2.8306945629366e-6,
+		"intersectSumArea" : 7.521354458977561e-7,
+		"AD.total_count" : "52",
+		"ORAN" : "0.26570703026238224"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 81,
+		"Shape_Area.sum" : 5.450441391086e-7,
+		"intersectSumArea" : 2.8828571305590466e-7,
+		"AD.total_count" : "33",
+		"ORAN" : "0.5289217741656401"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 273,
+		"Shape_Area.sum" : 7.71782847815e-6,
+		"intersectSumArea" : 9.741921993401067e-7,
+		"AD.total_count" : "82",
+		"ORAN" : "0.12622620496142786"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 387,
+		"Shape_Area.sum" : 1.071439511693e-6,
+		"intersectSumArea" : 4.834522939745e-8,
+		"AD.total_count" : "5",
+		"ORAN" : "0.045121753369967536"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 63,
+		"Shape_Area.sum" : 5.71358493098e-8,
+		"intersectSumArea" : 1.297596274004113e-8,
+		"AD.total_count" : "7",
+		"ORAN" : "0.22710719971419902"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 474,
+		"Shape_Area.sum" : 2.78618563238e-7,
+		"intersectSumArea" : 8.153219563653401e-8,
+		"AD.total_count" : "13",
+		"ORAN" : "0.2926301632202734"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 408,
+		"Shape_Area.sum" : 1.77920449952e-7,
+		"intersectSumArea" : 6.440278186884902e-8,
+		"AD.total_count" : "16",
+		"ORAN" : "0.36197515173901496"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 200,
+		"Shape_Area.sum" : 1.6161803912032e-7,
+		"intersectSumArea" : 6.6421051141166e-8,
+		"AD.total_count" : "11",
+		"ORAN" : "0.41097547961040065"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 57,
+		"Shape_Area.sum" : 5.13873533731e-6,
+		"intersectSumArea" : 2.5282653038656983e-7,
+		"AD.total_count" : "37",
+		"ORAN" : "0.04920014629882033"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 412,
+		"Shape_Area.sum" : 2.187977408197e-7,
+		"intersectSumArea" : 1.0049273870903903e-7,
+		"AD.total_count" : "15",
+		"ORAN" : "0.4592951386634743"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 336,
+		"Shape_Area.sum" : 1.34026924648473e-6,
+		"intersectSumArea" : 1.3870111967723998e-7,
+		"AD.total_count" : "23",
+		"ORAN" : "0.1034875045003282"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 78,
+		"Shape_Area.sum" : 5.13873533731e-6,
+		"intersectSumArea" : 2.528265303865698e-7,
+		"AD.total_count" : "37",
+		"ORAN" : "0.04920014629882032"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 341,
+		"Shape_Area.sum" : 9.97252435769e-8,
+		"intersectSumArea" : 4.6583289705667e-8,
+		"AD.total_count" : "2",
+		"ORAN" : "0.46711632917442564"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 107,
+		"Shape_Area.sum" : 1.0424312927594e-6,
+		"intersectSumArea" : 2.959505260212639e-7,
+		"AD.total_count" : "46",
+		"ORAN" : "0.2839041077113667"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 367,
+		"Shape_Area.sum" : 1.071439511693e-6,
+		"intersectSumArea" : 4.834522939745e-8,
+		"AD.total_count" : "5",
+		"ORAN" : "0.045121753369967536"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 297,
+		"Shape_Area.sum" : 1.3711542808318e-6,
+		"intersectSumArea" : 2.9985183322600004e-8,
+		"AD.total_count" : "2",
+		"ORAN" : "0.021868569964577384"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 235,
+		"Shape_Area.sum" : 1.7511966141420898e-6,
+		"intersectSumArea" : 1.3151451742721e-7,
+		"AD.total_count" : "8",
+		"ORAN" : "0.07509980111036184"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 238,
+		"Shape_Area.sum" : 4.66097884976e-7,
+		"intersectSumArea" : 6.7803175008294e-8,
+		"AD.total_count" : "5",
+		"ORAN" : "0.14546981909558607"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 261,
+		"Shape_Area.sum" : 1.372649506518e-6,
+		"intersectSumArea" : 2.8230101350729894e-7,
+		"AD.total_count" : "24",
+		"ORAN" : "0.2056613958383389"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 154,
+		"Shape_Area.sum" : 1.30316509409e-7,
+		"intersectSumArea" : 6.13562258210047e-8,
+		"AD.total_count" : "7",
+		"ORAN" : "0.4708246568240822"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 466,
+		"Shape_Area.sum" : 2.8669248037369996e-7,
+		"intersectSumArea" : 2.8167839345268003e-8,
+		"AD.total_count" : "10",
+		"ORAN" : "0.09825105739973224"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 293,
+		"Shape_Area.sum" : 4.9512931129356e-7,
+		"intersectSumArea" : 1.09447637351826e-7,
+		"AD.total_count" : "24",
+		"ORAN" : "0.22104859246948314"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 404,
+		"Shape_Area.sum" : 4.5232986385120004e-7,
+		"intersectSumArea" : 1.158228037214517e-7,
+		"AD.total_count" : "26",
+		"ORAN" : "0.2560582729057951"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 292,
+		"Shape_Area.sum" : 1.372649506518e-6,
+		"intersectSumArea" : 2.8230101350729894e-7,
+		"AD.total_count" : "24",
+		"ORAN" : "0.2056613958383389"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 333,
+		"Shape_Area.sum" : 3.39201511217e-6,
+		"intersectSumArea" : 6.99323411068417e-7,
+		"AD.total_count" : "31",
+		"ORAN" : "0.20616753992615128"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 448,
+		"Shape_Area.sum" : 3.0287415471e-7,
+		"intersectSumArea" : 3.8707129930345396e-8,
+		"AD.total_count" : "15",
+		"ORAN" : "0.12779938244452457"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 423,
+		"Shape_Area.sum" : 2.8306945629366e-6,
+		"intersectSumArea" : 7.521354458977561e-7,
+		"AD.total_count" : "52",
+		"ORAN" : "0.26570703026238224"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 213,
+		"Shape_Area.sum" : 2.2063543529220104e-6,
+		"intersectSumArea" : 2.687229697165733e-7,
+		"AD.total_count" : "62",
+		"ORAN" : "0.12179501871976593"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 205,
+		"Shape_Area.sum" : 1.7511966141420898e-6,
+		"intersectSumArea" : 1.3151451742721e-7,
+		"AD.total_count" : "8",
+		"ORAN" : "0.07509980111036184"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 291,
+		"Shape_Area.sum" : 1.372649506518e-6,
+		"intersectSumArea" : 2.82301013507299e-7,
+		"AD.total_count" : "24",
+		"ORAN" : "0.20566139583833892"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 410,
+		"Shape_Area.sum" : 1.5150570653680001e-6,
+		"intersectSumArea" : 4.0045993624338905e-7,
+		"AD.total_count" : "14",
+		"ORAN" : "0.26432003480088007"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 288,
+		"Shape_Area.sum" : 1.97971630968e-7,
+		"intersectSumArea" : 8.9690968137107e-9,
+		"AD.total_count" : "11",
+		"ORAN" : "0.04530495995742167"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 287,
+		"Shape_Area.sum" : 1.97971630968e-7,
+		"intersectSumArea" : 8.9690968137107e-9,
+		"AD.total_count" : "11",
+		"ORAN" : "0.04530495995742167"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 182,
+		"Shape_Area.sum" : 7.18909937279e-8,
+		"intersectSumArea" : 3.142503532438e-8,
+		"AD.total_count" : "12",
+		"ORAN" : "0.43712061406913527"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 265,
+		"Shape_Area.sum" : 8.20142026652e-8,
+		"intersectSumArea" : 1.541818296234e-8,
+		"AD.total_count" : "2",
+		"ORAN" : "0.18799406031270477"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 286,
+		"Shape_Area.sum" : 1.7910812289273899e-6,
+		"intersectSumArea" : 4.052324284346382e-7,
+		"AD.total_count" : "82",
+		"ORAN" : "0.22625016771423392"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 428,
+		"Shape_Area.sum" : 5.608205434621e-7,
+		"intersectSumArea" : 2.100332596955967e-7,
+		"AD.total_count" : "41",
+		"ORAN" : "0.3745106382854726"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 75,
+		"Shape_Area.sum" : 9.8971560922516e-7,
+		"intersectSumArea" : 2.1979287342031088e-7,
+		"AD.total_count" : "32",
+		"ORAN" : "0.222076797992895"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 131,
+		"Shape_Area.sum" : 5.246781431737e-6,
+		"intersectSumArea" : 7.44163626944528e-7,
+		"AD.total_count" : "87",
+		"ORAN" : "0.1418324046134632"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 473,
+		"Shape_Area.sum" : 2.78618563238e-7,
+		"intersectSumArea" : 8.153219563653401e-8,
+		"AD.total_count" : "13",
+		"ORAN" : "0.2926301632202734"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 478,
+		"Shape_Area.sum" : 4.08589954068e-7,
+		"intersectSumArea" : 1.1068034821536999e-8,
+		"AD.total_count" : "5",
+		"ORAN" : "0.027088367472918803"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 376,
+		"Shape_Area.sum" : 1.0084904346e-6,
+		"intersectSumArea" : 6.45531926863674e-8,
+		"AD.total_count" : "9",
+		"ORAN" : "0.06400972232520112"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 112,
+		"Shape_Area.sum" : 8.766063096966e-7,
+		"intersectSumArea" : 1.8380253280844397e-7,
+		"AD.total_count" : "58",
+		"ORAN" : "0.20967511957797724"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 207,
+		"Shape_Area.sum" : 4.66097884976e-7,
+		"intersectSumArea" : 6.7803175008294e-8,
+		"AD.total_count" : "5",
+		"ORAN" : "0.14546981909558607"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 303,
+		"Shape_Area.sum" : 3.39201511217e-6,
+		"intersectSumArea" : 6.99323411068417e-7,
+		"AD.total_count" : "31",
+		"ORAN" : "0.20616753992615128"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 395,
+		"Shape_Area.sum" : 2.187977408197e-7,
+		"intersectSumArea" : 1.0049273870903903e-7,
+		"AD.total_count" : "15",
+		"ORAN" : "0.4592951386634743"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 165,
+		"Shape_Area.sum" : 5.100416269208001e-7,
+		"intersectSumArea" : 5.2833714860628835e-8,
+		"AD.total_count" : "17",
+		"ORAN" : "0.10358706441196597"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 153,
+		"Shape_Area.sum" : 7.18909937279e-8,
+		"intersectSumArea" : 3.142503532438e-8,
+		"AD.total_count" : "12",
+		"ORAN" : "0.43712061406913527"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 47,
+		"Shape_Area.sum" : 6.04625091475e-7,
+		"intersectSumArea" : 3.991933021200352e-7,
+		"AD.total_count" : "61",
+		"ORAN" : "0.6602327752329825"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 263,
+		"Shape_Area.sum" : 4.9512931129356e-7,
+		"intersectSumArea" : 1.09447637351826e-7,
+		"AD.total_count" : "24",
+		"ORAN" : "0.22104859246948314"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 111,
+		"Shape_Area.sum" : 6.160560838301e-7,
+		"intersectSumArea" : 1.4527152014667303e-7,
+		"AD.total_count" : "34",
+		"ORAN" : "0.23580892058317368"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 366,
+		"Shape_Area.sum" : 3.1434859662639997e-7,
+		"intersectSumArea" : 1.027965459603766e-7,
+		"AD.total_count" : "23",
+		"ORAN" : "0.327014489848508"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 121,
+		"Shape_Area.sum" : 1.76721370184e-6,
+		"intersectSumArea" : 2.127789075498e-8,
+		"AD.total_count" : "2",
+		"ORAN" : "0.012040360898529553"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 61,
+		"Shape_Area.sum" : 6.04625091475e-7,
+		"intersectSumArea" : 3.991933021200352e-7,
+		"AD.total_count" : "61",
+		"ORAN" : "0.6602327752329825"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 29,
+		"Shape_Area.sum" : 2.6272364187410003e-7,
+		"intersectSumArea" : 7.237240326589031e-8,
+		"AD.total_count" : "9",
+		"ORAN" : "0.2754697017353769"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 204,
+		"Shape_Area.sum" : 1.8674439090760002e-7,
+		"intersectSumArea" : 7.2933402406381e-8,
+		"AD.total_count" : "15",
+		"ORAN" : "0.39055203774483377"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 320,
+		"Shape_Area.sum" : 2.6623766768421896e-7,
+		"intersectSumArea" : 4.4599909433191e-8,
+		"AD.total_count" : "14",
+		"ORAN" : "0.16751915617774407"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 138,
+		"Shape_Area.sum" : 1.8077176678844002e-7,
+		"intersectSumArea" : 4.288771214228e-8,
+		"AD.total_count" : "7",
+		"ORAN" : "0.2372478451929507"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 438,
+		"Shape_Area.sum" : 1.3044898648087e-6,
+		"intersectSumArea" : 2.874108674915959e-7,
+		"AD.total_count" : "23",
+		"ORAN" : "0.2203243392264638"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 271,
+		"Shape_Area.sum" : 2.713741519425e-7,
+		"intersectSumArea" : 6.2403835572028e-8,
+		"AD.total_count" : "5",
+		"ORAN" : "0.22995497222318506"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 343,
+		"Shape_Area.sum" : 7.18127378602667e-7,
+		"intersectSumArea" : 2.3094745306957297e-7,
+		"AD.total_count" : "25",
+		"ORAN" : "0.3215967806699569"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 126,
+		"Shape_Area.sum" : 1.968405768112e-7,
+		"intersectSumArea" : 7.709905020350467e-8,
+		"AD.total_count" : "15",
+		"ORAN" : "0.3916827081717728"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 216,
+		"Shape_Area.sum" : 3.581436170402e-7,
+		"intersectSumArea" : 1.362588644296e-7,
+		"AD.total_count" : "4",
+		"ORAN" : "0.3804587264619756"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 266,
+		"Shape_Area.sum" : 8.20142026652e-8,
+		"intersectSumArea" : 1.541818296234e-8,
+		"AD.total_count" : "2",
+		"ORAN" : "0.18799406031270477"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 157,
+		"Shape_Area.sum" : 7.91445563057e-9,
+		"intersectSumArea" : 7.1590884485872804e-9,
+		"AD.total_count" : "8",
+		"ORAN" : "0.9045585423380132"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 174,
+		"Shape_Area.sum" : 6.589177980682001e-7,
+		"intersectSumArea" : 2.169636287444616e-7,
+		"AD.total_count" : "32",
+		"ORAN" : "0.3292726792030061"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 379,
+		"Shape_Area.sum" : 3.85019625625e-7,
+		"intersectSumArea" : 5.051956770256849e-8,
+		"AD.total_count" : "12",
+		"ORAN" : "0.13121296770407584"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 22,
+		"Shape_Area.sum" : 3.007659824177e-7,
+		"intersectSumArea" : 4.84932659399301e-8,
+		"AD.total_count" : "15",
+		"ORAN" : "0.16123254880794086"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 175,
+		"Shape_Area.sum" : 1.8674439090760002e-7,
+		"intersectSumArea" : 7.2933402406381e-8,
+		"AD.total_count" : "15",
+		"ORAN" : "0.39055203774483377"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 13,
+		"Shape_Area.sum" : 1.920972712411e-6,
+		"intersectSumArea" : 6.948936679598099e-9,
+		"AD.total_count" : "7",
+		"ORAN" : "0.0036174052003458894"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 420,
+		"Shape_Area.sum" : 1.2293323907799998e-6,
+		"intersectSumArea" : 5.235915792070888e-7,
+		"AD.total_count" : "30",
+		"ORAN" : "0.425915385565392"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 255,
+		"Shape_Area.sum" : 4.04416421829e-8,
+		"intersectSumArea" : 1.35145654893e-8,
+		"AD.total_count" : "3",
+		"ORAN" : "0.3341744983593763"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 394,
+		"Shape_Area.sum" : 1.5150570653680001e-6,
+		"intersectSumArea" : 4.004599362433891e-7,
+		"AD.total_count" : "14",
+		"ORAN" : "0.2643200348008801"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 374,
+		"Shape_Area.sum" : 1.97992799444e-6,
+		"intersectSumArea" : 2.0709966544597452e-7,
+		"AD.total_count" : "12",
+		"ORAN" : "0.10459959454462397"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 358,
+		"Shape_Area.sum" : 1.0274176311179999e-7,
+		"intersectSumArea" : 2.0532682981393e-8,
+		"AD.total_count" : "3",
+		"ORAN" : "0.19984748518526058"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 359,
+		"Shape_Area.sum" : 1.0274176311179999e-7,
+		"intersectSumArea" : 2.0532682981393003e-8,
+		"AD.total_count" : "3",
+		"ORAN" : "0.1998474851852606"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 215,
+		"Shape_Area.sum" : 3.581436170402e-7,
+		"intersectSumArea" : 1.362588644296e-7,
+		"AD.total_count" : "4",
+		"ORAN" : "0.3804587264619756"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 211,
+		"Shape_Area.sum" : 1.686557415017e-6,
+		"intersectSumArea" : 1.1365240767305099e-7,
+		"AD.total_count" : "5",
+		"ORAN" : "0.06738721531867055"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 315,
+		"Shape_Area.sum" : 1.7910812289273899e-6,
+		"intersectSumArea" : 4.0523242843463807e-7,
+		"AD.total_count" : "82",
+		"ORAN" : "0.22625016771423387"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 348,
+		"Shape_Area.sum" : 2.6623766768421896e-7,
+		"intersectSumArea" : 4.459990943319099e-8,
+		"AD.total_count" : "14",
+		"ORAN" : "0.16751915617774402"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 125,
+		"Shape_Area.sum" : 4.20411882444e-8,
+		"intersectSumArea" : 3.45560035811497e-8,
+		"AD.total_count" : "11",
+		"ORAN" : "0.8219559204716973"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 434,
+		"Shape_Area.sum" : 5.455516848200001e-7,
+		"intersectSumArea" : 8.4820236372313e-8,
+		"AD.total_count" : "29",
+		"ORAN" : "0.15547607812869038"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 294,
+		"Shape_Area.sum" : 4.9512931129356e-7,
+		"intersectSumArea" : 1.09447637351826e-7,
+		"AD.total_count" : "24",
+		"ORAN" : "0.22104859246948314"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 118,
+		"Shape_Area.sum" : 7.62685988517e-7,
+		"intersectSumArea" : 1.3901279402745998e-7,
+		"AD.total_count" : "9",
+		"ORAN" : "0.18226740247026504"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 229,
+		"Shape_Area.sum" : 1.6326830262245e-6,
+		"intersectSumArea" : 4.642937272512791e-7,
+		"AD.total_count" : "32",
+		"ORAN" : "0.28437468865278503"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 295,
+		"Shape_Area.sum" : 8.20142026652e-8,
+		"intersectSumArea" : 1.541818296234e-8,
+		"AD.total_count" : "2",
+		"ORAN" : "0.18799406031270477"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 48,
+		"Shape_Area.sum" : 5.71358493098e-8,
+		"intersectSumArea" : 1.297596274004113e-8,
+		"AD.total_count" : "7",
+		"ORAN" : "0.22710719971419902"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 18,
+		"Shape_Area.sum" : 1.920972712411e-6,
+		"intersectSumArea" : 6.948936679598099e-9,
+		"AD.total_count" : "7",
+		"ORAN" : "0.0036174052003458894"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 198,
+		"Shape_Area.sum" : 3.3863929702375004e-6,
+		"intersectSumArea" : 4.301914357457623e-7,
+		"AD.total_count" : "67",
+		"ORAN" : "0.12703529670851854"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 444,
+		"Shape_Area.sum" : 1.3642046840869999e-6,
+		"intersectSumArea" : 6.339825045051597e-7,
+		"AD.total_count" : "25",
+		"ORAN" : "0.4647268198829381"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 390,
+		"Shape_Area.sum" : 2.96432312645e-7,
+		"intersectSumArea" : 9.519291879111e-8,
+		"AD.total_count" : "7",
+		"ORAN" : "0.3211286851346421"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 21,
+		"Shape_Area.sum" : 3.007659824177e-7,
+		"intersectSumArea" : 4.84932659399301e-8,
+		"AD.total_count" : "15",
+		"ORAN" : "0.16123254880794086"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 46,
+		"Shape_Area.sum" : 6.04625091475e-7,
+		"intersectSumArea" : 3.991933021200352e-7,
+		"AD.total_count" : "61",
+		"ORAN" : "0.6602327752329825"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 365,
+		"Shape_Area.sum" : 3.1434859662639997e-7,
+		"intersectSumArea" : 1.027965459603766e-7,
+		"AD.total_count" : "23",
+		"ORAN" : "0.327014489848508"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 251,
+		"Shape_Area.sum" : 1.51420394319e-6,
+		"intersectSumArea" : 5.668269436447e-8,
+		"AD.total_count" : "7",
+		"ORAN" : "0.037433989403736184"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 464,
+		"Shape_Area.sum" : 9.90811334069e-8,
+		"intersectSumArea" : 5.583524439552333e-8,
+		"AD.total_count" : "10",
+		"ORAN" : "0.5635305378090777"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 241,
+		"Shape_Area.sum" : 2.713741519425e-7,
+		"intersectSumArea" : 6.240383557202801e-8,
+		"AD.total_count" : "5",
+		"ORAN" : "0.22995497222318512"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 221,
+		"Shape_Area.sum" : 1.51420394319e-6,
+		"intersectSumArea" : 5.668269436447e-8,
+		"AD.total_count" : "7",
+		"ORAN" : "0.037433989403736184"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 439,
+		"Shape_Area.sum" : 1.3044898648087e-6,
+		"intersectSumArea" : 2.874108674915959e-7,
+		"AD.total_count" : "23",
+		"ORAN" : "0.2203243392264638"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 427,
+		"Shape_Area.sum" : 8.487056157199e-7,
+		"intersectSumArea" : 2.694655157626511e-7,
+		"AD.total_count" : "26",
+		"ORAN" : "0.31750174709764534"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 280,
+		"Shape_Area.sum" : 4.66461033502e-6,
+		"intersectSumArea" : 2.9323246460866e-7,
+		"AD.total_count" : "8",
+		"ORAN" : "0.06286322834025165"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 92,
+		"Shape_Area.sum" : 1.76721370184e-6,
+		"intersectSumArea" : 2.127789075498e-8,
+		"AD.total_count" : "2",
+		"ORAN" : "0.012040360898529553"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 15,
+		"Shape_Area.sum" : 4.784706590280001e-7,
+		"intersectSumArea" : 1.0431672948361123e-7,
+		"AD.total_count" : "24",
+		"ORAN" : "0.21802116287658638"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 124,
+		"Shape_Area.sum" : 4.20411882444e-8,
+		"intersectSumArea" : 3.45560035811497e-8,
+		"AD.total_count" : "11",
+		"ORAN" : "0.8219559204716973"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 158,
+		"Shape_Area.sum" : 4.54873184703e-7,
+		"intersectSumArea" : 2.2958700440829e-8,
+		"AD.total_count" : "6",
+		"ORAN" : "0.05047274979688989"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 176,
+		"Shape_Area.sum" : 1.8674439090760002e-7,
+		"intersectSumArea" : 7.2933402406381e-8,
+		"AD.total_count" : "15",
+		"ORAN" : "0.39055203774483377"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 302,
+		"Shape_Area.sum" : 3.39201511217e-6,
+		"intersectSumArea" : 6.99323411068417e-7,
+		"AD.total_count" : "31",
+		"ORAN" : "0.20616753992615128"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 99,
+		"Shape_Area.sum" : 1.968405768112e-7,
+		"intersectSumArea" : 7.709905020350467e-8,
+		"AD.total_count" : "15",
+		"ORAN" : "0.3916827081717728"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 290,
+		"Shape_Area.sum" : 4.33309535647e-7,
+		"intersectSumArea" : 1.812670500232e-7,
+		"AD.total_count" : "6",
+		"ORAN" : "0.4183315507989906"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 388,
+		"Shape_Area.sum" : 4.5232986385120004e-7,
+		"intersectSumArea" : 1.1582280372145173e-7,
+		"AD.total_count" : "26",
+		"ORAN" : "0.25605827290579514"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 403,
+		"Shape_Area.sum" : 4.5232986385120004e-7,
+		"intersectSumArea" : 1.1582280372145173e-7,
+		"AD.total_count" : "26",
+		"ORAN" : "0.25605827290579514"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 190,
+		"Shape_Area.sum" : 5.835173701542218e-7,
+		"intersectSumArea" : 1.3424385158322698e-7,
+		"AD.total_count" : "10",
+		"ORAN" : "0.23005973506452215"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 20,
+		"Shape_Area.sum" : 4.784706590280001e-7,
+		"intersectSumArea" : 1.043167294836112e-7,
+		"AD.total_count" : "24",
+		"ORAN" : "0.21802116287658632"
+	},
+	{
+		"json_featuretype" : "alan_afad_oran",
+		"ID" : 323,
+		"Shape_Area.sum" : 2.449205723313e-7,
+		"intersectSumArea" : 1.657620585569e-8,
+		"AD.total_count" : "6",
+		"ORAN" : "0.06767992454822308"
+	}
+]

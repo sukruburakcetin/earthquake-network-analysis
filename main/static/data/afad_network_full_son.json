@@ -1,0 +1,1926 @@
+[
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "1,\"[('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "2,\"[('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "3,\"[('polygon_4, 0', ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 0)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "4,\"[('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "5,\"[('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "6,\"[('polygon_4, 0', ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 0)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "7,\"[('polygon_4', 0), ('polygon_3', 96), ('polygon_2', 278), ('polygon_1', 235), ('polygon_0', 36), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "8,\"[('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "9,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "10,\"[('polygon_4', 0), ('polygon_3', 96), ('polygon_2', 278), ('polygon_1', 235), ('polygon_0', 36), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "11,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "12,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "13,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "14,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "15,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "16,\"[('polygon_4', 2), ('polygon_3', 316), ('polygon_2', 771), ('polygon_1', 1019), ('polygon_0', 137), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "17,\"[('polygon_4', 2), ('polygon_3', 316), ('polygon_2', 771), ('polygon_1', 1019), ('polygon_0', 137), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "18,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "19,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "20,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "21,\"[('polygon_4', 2), ('polygon_3', 316), ('polygon_2', 771), ('polygon_1', 1019), ('polygon_0', 137), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "22,\"[('polygon_4', 2), ('polygon_3', 316), ('polygon_2', 771), ('polygon_1', 1019), ('polygon_0', 137), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "23,\"[('polygon_4, 0', ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 0)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "24,\"[('polygon_4, 0', ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 0)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "25,\"[('polygon_4, 0', ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 0)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "26,\"[('polygon_4, 0', ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 0)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "27,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "28,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "29,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "30,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "31,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "32,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "33,\"[('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "34,\"[('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "35,\"[('polygon_4, 0', ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 0)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "36,\"[('polygon_4, 0', ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 0)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "37,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "38,\"[('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "39,\"[('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "40,\"[('polygon_4, 0', ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 0)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "41,\"[('polygon_4, 0', ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 0)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "42,\"[('polygon_4, 0', ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 0)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "43,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "44,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "45,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "46,\"[('polygon_4', 0), ('polygon_3', 356), ('polygon_2', 1280), ('polygon_1', 1379), ('polygon_0', 192), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "47,\"[('polygon_4', 0), ('polygon_3', 356), ('polygon_2', 1280), ('polygon_1', 1379), ('polygon_0', 192), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "48,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "49,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "50,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "51,\"[('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('polygon_3', 0), ('polygon_4', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "52,\"[('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('polygon_3', 0), ('polygon_4', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "53,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "54,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "55,\"[('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "56,\"[('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "57,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "58,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "59,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "60,\"[('polygon_4', 0), ('polygon_3', 356), ('polygon_2', 1280), ('polygon_1', 1379), ('polygon_0', 192), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "61,\"[('polygon_4', 0), ('polygon_3', 356), ('polygon_2', 1280), ('polygon_1', 1379), ('polygon_0', 192), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "62,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "63,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "64,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "65,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "66,\"[('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('polygon_4', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "67,\"[('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('polygon_3', 0), ('polygon_4', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "68,\"[('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('polygon_4', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "69,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "70,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "71,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "72,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "73,\"[('polygon_4, 0', ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 0)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "74,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "75,\"[('polygon_4', 17), ('polygon_3', 193), ('polygon_2', 747), ('polygon_1', 1522), ('polygon_0', 181), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "76,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "77,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "78,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "79,\"[('polygon_4', 0), ('polygon_3', 86), ('polygon_2', 141), ('polygon_1', 164), ('polygon_0', 68), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "80,\"[('polygon_4', 37), ('polygon_3', 283), ('polygon_2', 688), ('polygon_1', 1060), ('polygon_0', 345), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "81,\"[('polygon_4', 37), ('polygon_3', 283), ('polygon_2', 688), ('polygon_1', 1060), ('polygon_0', 345), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "82,\"[('polygon_4', 0), ('polygon_3', 207), ('polygon_2', 491), ('polygon_1', 827), ('polygon_0', 453), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "83,\"[('polygon_4', 0), ('polygon_3', 207), ('polygon_2', 491), ('polygon_1', 827), ('polygon_0', 453), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "84,\"[('polygon_3', 36), ('polygon_2', 126), ('polygon_1', 124), ('polygon_0', 49), ('polygon_4', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "85,\"[('polygon_3', 36), ('polygon_2', 126), ('polygon_1', 124), ('polygon_0', 49), ('polygon_4', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "86,\"[('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('polygon_4', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "87,\"[('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('polygon_4', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "88,\"[('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('polygon_4', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "89,\"[('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('polygon_4', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "90,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "91,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "92,\"[('polygon_4', 6), ('polygon_3', 44), ('polygon_2', 63), ('polygon_1', 110), ('polygon_0', 51), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "93,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "94,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "95,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "96,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "97,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "98,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "99,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "100,\"[('polygon_4', 19), ('polygon_3', 481), ('polygon_2', 1408), ('polygon_1', 1541), ('polygon_0', 174), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "101,\"[('polygon_4', 19), ('polygon_3', 481), ('polygon_2', 1408), ('polygon_1', 1541), ('polygon_0', 174), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "102,\"[('polygon_4', 17), ('polygon_3', 193), ('polygon_2', 747), ('polygon_1', 1522), ('polygon_0', 181), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "103,\"[('polygon_4', 17), ('polygon_3', 193), ('polygon_2', 747), ('polygon_1', 1522), ('polygon_0', 181), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "104,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "105,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "106,\"[('polygon_4', 0), ('polygon_3', 86), ('polygon_2', 141), ('polygon_1', 164), ('polygon_0', 68), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "107,\"[('polygon_4', 0), ('polygon_3', 86), ('polygon_2', 141), ('polygon_1', 164), ('polygon_0', 68), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "108,\"[('polygon_4', 37), ('polygon_3', 283), ('polygon_2', 688), ('polygon_1', 1060), ('polygon_0', 345), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "109,\"[('polygon_4', 37), ('polygon_3', 283), ('polygon_2', 688), ('polygon_1', 1060), ('polygon_0', 345), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "110,\"[('polygon_4', 0), ('polygon_3', 207), ('polygon_2', 491), ('polygon_1', 827), ('polygon_0', 453), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "111,\"[('polygon_4', 0), ('polygon_3', 207), ('polygon_2', 491), ('polygon_1', 827), ('polygon_0', 453), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "112,\"[('polygon_4', 0), ('polygon_3', 94), ('polygon_2', 441), ('polygon_1', 1114), ('polygon_0', 229), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "113,\"[('polygon_3', 36), ('polygon_2', 126), ('polygon_1', 124), ('polygon_0', 49), ('polygon_4', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "114,\"[('polygon_4', 0), ('polygon_3', 29), ('polygon_2', 285), ('polygon_1', 283), ('polygon_0', 42), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "115,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 92), ('polygon_1', 260), ('polygon_0', 126), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "116,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 92), ('polygon_1', 260), ('polygon_0', 126), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "117,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "118,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "119,\"[('polygon_4', 6), ('polygon_3', 44), ('polygon_2', 63), ('polygon_1', 110), ('polygon_0', 51), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "120,\"[('polygon_4', 6), ('polygon_3', 44), ('polygon_2', 63), ('polygon_1', 110), ('polygon_0', 51), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "121,\"[('polygon_4', 6), ('polygon_3', 44), ('polygon_2', 63), ('polygon_1', 110), ('polygon_0', 51), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "122,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "123,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "124,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "125,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "126,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "127,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "128,\"[('polygon_4', 19), ('polygon_3', 481), ('polygon_2', 1408), ('polygon_1', 1541), ('polygon_0', 174), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "129,\"[('polygon_2', 99), ('polygon_1', 194), ('polygon_0', 125), ('polygon_3', 67), ('polygon_4', 15), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "130,\"[('polygon_4', 17), ('polygon_3', 193), ('polygon_2', 747), ('polygon_1', 1522), ('polygon_0', 181), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "131,\"[('polygon_3', 33), ('polygon_2', 63), ('polygon_1', 232), ('polygon_0', 107), ('polygon_4', 3), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "132,\"[('polygon_3', 33), ('polygon_2', 63), ('polygon_1', 232), ('polygon_0', 107), ('polygon_4', 3), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "133,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "134,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "135,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 68), ('polygon_1', 176), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "136,\"[('polygon_4', 0), ('polygon_3', 210), ('polygon_2', 906), ('polygon_1', 1268), ('polygon_0', 213), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "137,\"[('polygon_4', 0), ('polygon_3', 210), ('polygon_2', 906), ('polygon_1', 1268), ('polygon_0', 213), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "138,\"[('polygon_4', 17), ('polygon_3', 100), ('polygon_2', 164), ('polygon_1', 323), ('polygon_0', 116), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "139,\"[('polygon_4', 17), ('polygon_3', 100), ('polygon_2', 164), ('polygon_1', 323), ('polygon_0', 116), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "140,\"[('polygon_4', 0), ('polygon_3', 94), ('polygon_2', 441), ('polygon_1', 1114), ('polygon_0', 229), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "141,\"[('polygon_4', 0), ('polygon_3', 94), ('polygon_2', 441), ('polygon_1', 1114), ('polygon_0', 229), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "142,\"[('polygon_4', 0), ('polygon_3', 29), ('polygon_2', 285), ('polygon_1', 283), ('polygon_0', 42), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "143,\"[('polygon_4', 0), ('polygon_3', 29), ('polygon_2', 285), ('polygon_1', 283), ('polygon_0', 42), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "144,\"[('polygon_4', 0), ('polygon_3', 29), ('polygon_2', 285), ('polygon_1', 283), ('polygon_0', 42), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "145,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 92), ('polygon_1', 260), ('polygon_0', 126), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "146,\"[('polygon_4', 18), ('polygon_3', 208), ('polygon_2', 414), ('polygon_1', 780), ('polygon_0', 141), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "147,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "148,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "149,\"[('polygon_4', 6), ('polygon_3', 44), ('polygon_2', 63), ('polygon_1', 110), ('polygon_0', 51), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "150,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "151,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "152,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "153,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "154,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 142), ('polygon_1', 391), ('polygon_0', 234), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "155,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 142), ('polygon_1', 391), ('polygon_0', 234), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "156,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "157,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "158,\"[('polygon_2', 99), ('polygon_1', 194), ('polygon_0', 125), ('polygon_3', 67), ('polygon_4', 15), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "159,\"[('polygon_2', 99), ('polygon_1', 194), ('polygon_0', 125), ('polygon_3', 67), ('polygon_4', 15), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "160,\"[('polygon_3', 33), ('polygon_2', 63), ('polygon_1', 232), ('polygon_0', 107), ('polygon_4', 3), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "161,\"[('polygon_3', 33), ('polygon_2', 63), ('polygon_1', 232), ('polygon_0', 107), ('polygon_4', 3), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "162,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "163,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "164,\"[('polygon_4, 0', ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 0)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "164,\"[('polygon_4, 0', ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 0)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "165,\"[('polygon_4', 53), ('polygon_3', 285), ('polygon_2', 613), ('polygon_1', 841), ('polygon_0', 66), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "166,\"[('polygon_4', 0), ('polygon_3', 210), ('polygon_2', 906), ('polygon_1', 1268), ('polygon_0', 213), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "167,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "168,\"[('polygon_4', 17), ('polygon_3', 100), ('polygon_2', 164), ('polygon_1', 323), ('polygon_0', 116), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "169,\"[('polygon_4', 39), ('polygon_3', 925), ('polygon_2', 1906), ('polygon_1', 2644), ('polygon_0', 314), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "170,\"[('polygon_4', 39), ('polygon_3', 925), ('polygon_2', 1906), ('polygon_1', 2644), ('polygon_0', 314), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "171,\"[('polygon_4', 0), ('polygon_3', 31), ('polygon_2', 157), ('polygon_1', 382), ('polygon_0', 123), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "172,\"[('polygon_4', 0), ('polygon_3', 31), ('polygon_2', 157), ('polygon_1', 382), ('polygon_0', 123), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "173,\"[('polygon_4', 11), ('polygon_3', 399), ('polygon_2', 951), ('polygon_1', 1484), ('polygon_0', 450), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "174,\"[('polygon_4', 11), ('polygon_3', 399), ('polygon_2', 951), ('polygon_1', 1484), ('polygon_0', 450), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "175,\"[('polygon_4', 18), ('polygon_3', 208), ('polygon_2', 414), ('polygon_1', 780), ('polygon_0', 141), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "176,\"[('polygon_4', 18), ('polygon_3', 208), ('polygon_2', 414), ('polygon_1', 780), ('polygon_0', 141), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "177,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "178,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "179,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "180,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "181,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "182,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "183,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 142), ('polygon_1', 391), ('polygon_0', 234), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "184,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "185,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "186,\"[('polygon_4', 0), ('polygon_3', 26), ('polygon_2', 237), ('polygon_1', 683), ('polygon_0', 197), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "187,\"[('polygon_4', 0), ('polygon_3', 26), ('polygon_2', 237), ('polygon_1', 683), ('polygon_0', 197), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "188,\"[('polygon_4', 16), ('polygon_3', 232), ('polygon_2', 524), ('polygon_1', 376), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "189,\"[('polygon_4', 16), ('polygon_3', 232), ('polygon_2', 524), ('polygon_1', 376), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "190,\"[('polygon_4', 0), ('polygon_3', 22), ('polygon_2', 171), ('polygon_1', 157), ('polygon_0', 2), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "191,\"[('polygon_4', 0), ('polygon_3', 22), ('polygon_2', 171), ('polygon_1', 157), ('polygon_0', 2), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "192,\"[('polygon_4, 0', ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 0)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "193,\"[('polygon_4, 0', ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 0)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "194,\"[('polygon_4', 53), ('polygon_3', 285), ('polygon_2', 613), ('polygon_1', 841), ('polygon_0', 66), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "195,\"[('polygon_4', 53), ('polygon_3', 285), ('polygon_2', 613), ('polygon_1', 841), ('polygon_0', 66), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "196,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "197,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "198,\"[('polygon_4', 39), ('polygon_3', 925), ('polygon_2', 1906), ('polygon_1', 2644), ('polygon_0', 314), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "199,\"[('polygon_4', 39), ('polygon_3', 925), ('polygon_2', 1906), ('polygon_1', 2644), ('polygon_0', 314), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "200,\"[('polygon_4', 0), ('polygon_3', 31), ('polygon_2', 157), ('polygon_1', 382), ('polygon_0', 123), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "201,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "202,\"[('polygon_4', 11), ('polygon_3', 399), ('polygon_2', 951), ('polygon_1', 1484), ('polygon_0', 450), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "203,\"[('polygon_4', 0), ('polygon_3', 284), ('polygon_2', 438), ('polygon_1', 478), ('polygon_0', 7), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "204,\"[('polygon_4', 18), ('polygon_3', 208), ('polygon_2', 414), ('polygon_1', 780), ('polygon_0', 141), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "205,\"[('polygon_4', 12), ('polygon_3', 112), ('polygon_2', 200), ('polygon_1', 267), ('polygon_0', 238), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "206,\"[('polygon_4', 12), ('polygon_3', 112), ('polygon_2', 200), ('polygon_1', 267), ('polygon_0', 238), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "207,\"[('polygon_4', 0), ('polygon_3', 34), ('polygon_2', 87), ('polygon_1', 332), ('polygon_0', 112), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "208,\"[('polygon_4', 0), ('polygon_3', 34), ('polygon_2', 87), ('polygon_1', 332), ('polygon_0', 112), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "209,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "210,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "211,\"[('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('polygon_4', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "212,\"[('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('polygon_4', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "213,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "214,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "215,\"[('polygon_4', 0), ('polygon_3', 26), ('polygon_2', 237), ('polygon_1', 683), ('polygon_0', 197), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "216,\"[('polygon_4', 0), ('polygon_3', 26), ('polygon_2', 237), ('polygon_1', 683), ('polygon_0', 197), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "217,\"[('polygon_4', 16), ('polygon_3', 232), ('polygon_2', 524), ('polygon_1', 376), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "218,\"[('polygon_4', 16), ('polygon_3', 232), ('polygon_2', 524), ('polygon_1', 376), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "219,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "220,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "221,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "222,\"[('polygon_4, 0', ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 0)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "223,\"[('polygon_4, 0', ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 0)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "224,\"[('polygon_4', 53), ('polygon_3', 285), ('polygon_2', 613), ('polygon_1', 841), ('polygon_0', 66), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "225,\"[('polygon_4', 0), ('polygon_3', 314), ('polygon_2', 785), ('polygon_1', 1005), ('polygon_0', 224), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "226,\"[('polygon_4', 0), ('polygon_3', 314), ('polygon_2', 785), ('polygon_1', 1005), ('polygon_0', 224), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "227,\"[('polygon_4', 0), ('polygon_3', 293), ('polygon_2', 603), ('polygon_1', 654), ('polygon_0', 16), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "228,\"[('polygon_4', 0), ('polygon_3', 293), ('polygon_2', 603), ('polygon_1', 654), ('polygon_0', 16), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "229,\"[('polygon_4', 0), ('polygon_3', 149), ('polygon_2', 774), ('polygon_1', 1242), ('polygon_0', 372), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "230,\"[('polygon_4', 0), ('polygon_3', 149), ('polygon_2', 774), ('polygon_1', 1242), ('polygon_0', 372), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "231,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "232,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "233,\"[('polygon_4', 0), ('polygon_3', 284), ('polygon_2', 438), ('polygon_1', 478), ('polygon_0', 7), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "234,\"[('polygon_4', 0), ('polygon_3', 284), ('polygon_2', 438), ('polygon_1', 478), ('polygon_0', 7), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "235,\"[('polygon_4', 12), ('polygon_3', 112), ('polygon_2', 200), ('polygon_1', 267), ('polygon_0', 238), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "236,\"[('polygon_4', 12), ('polygon_3', 112), ('polygon_2', 200), ('polygon_1', 267), ('polygon_0', 238), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "237,\"[('polygon_4', 0), ('polygon_3', 34), ('polygon_2', 87), ('polygon_1', 332), ('polygon_0', 112), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "238,\"[('polygon_4', 0), ('polygon_3', 34), ('polygon_2', 87), ('polygon_1', 332), ('polygon_0', 112), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "239,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "240,\"[('polygon_4', 8), ('polygon_3', 75), ('polygon_2', 127), ('polygon_1', 310), ('polygon_0', 54), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "241,\"[('polygon_4', 8), ('polygon_3', 75), ('polygon_2', 127), ('polygon_1', 310), ('polygon_0', 54), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "242,\"[('polygon_4', 0), ('polygon_3', 36), ('polygon_2', 188), ('polygon_1', 239), ('polygon_0', 6), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "243,\"[('polygon_4', 0), ('polygon_3', 36), ('polygon_2', 188), ('polygon_1', 239), ('polygon_0', 6), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "244,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "245,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "246,\"[('polygon_4', 0), ('polygon_3', 94), ('polygon_2', 421), ('polygon_1', 544), ('polygon_0', 99), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "247,\"[('polygon_4', 0), ('polygon_3', 94), ('polygon_2', 421), ('polygon_1', 544), ('polygon_0', 99), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "248,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "249,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "250,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "251,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "252,\"[('polygon_4, 0', ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 0)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "253,\"[('polygon_4, 0', ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 0)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "254,\"[('polygon_4', 0), ('polygon_3', 146), ('polygon_2', 299), ('polygon_1', 322), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "255,\"[('polygon_4', 0), ('polygon_3', 146), ('polygon_2', 299), ('polygon_1', 322), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "256,\"[('polygon_4', 0), ('polygon_3', 314), ('polygon_2', 785), ('polygon_1', 1005), ('polygon_0', 224), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "257,\"[('polygon_4', 0), ('polygon_3', 314), ('polygon_2', 785), ('polygon_1', 1005), ('polygon_0', 224), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "258,\"[('polygon_4', 0), ('polygon_3', 293), ('polygon_2', 603), ('polygon_1', 654), ('polygon_0', 16), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "259,\"[('polygon_4', 0), ('polygon_3', 293), ('polygon_2', 603), ('polygon_1', 654), ('polygon_0', 16), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "260,\"[('polygon_4', 0), ('polygon_3', 149), ('polygon_2', 774), ('polygon_1', 1242), ('polygon_0', 372), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "261,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "262,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "263,\"[('polygon_4', 0), ('polygon_3', 20), ('polygon_2', 206), ('polygon_1', 292), ('polygon_0', 104), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "264,\"[('polygon_4', 0), ('polygon_3', 20), ('polygon_2', 206), ('polygon_1', 292), ('polygon_0', 104), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "265,\"[('polygon_4', 0), ('polygon_3', 96), ('polygon_2', 159), ('polygon_1', 298), ('polygon_0', 114), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "266,\"[('polygon_4', 0), ('polygon_3', 96), ('polygon_2', 159), ('polygon_1', 298), ('polygon_0', 114), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "267,\"[('polygon_3', 30), ('polygon_2', 177), ('polygon_1', 302), ('polygon_0', 81), ('polygon_4', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "268,\"[('polygon_3', 30), ('polygon_2', 177), ('polygon_1', 302), ('polygon_0', 81), ('polygon_4', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "269,\"[('polygon_4', 2), ('polygon_3', 112), ('polygon_2', 199), ('polygon_1', 292), ('polygon_0', 126), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "270,\"[('polygon_4', 2), ('polygon_3', 112), ('polygon_2', 199), ('polygon_1', 292), ('polygon_0', 126), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "271,\"[('polygon_4', 8), ('polygon_3', 75), ('polygon_2', 127), ('polygon_1', 310), ('polygon_0', 54), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "272,\"[('polygon_4', 8), ('polygon_3', 75), ('polygon_2', 127), ('polygon_1', 310), ('polygon_0', 54), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "273,\"[('polygon_4', 0), ('polygon_3', 36), ('polygon_2', 188), ('polygon_1', 239), ('polygon_0', 6), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "274,\"[('polygon_4', 0), ('polygon_3', 36), ('polygon_2', 188), ('polygon_1', 239), ('polygon_0', 6), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "275,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "276,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "277,\"[('polygon_4', 0), ('polygon_3', 254), ('polygon_2', 401), ('polygon_1', 392), ('polygon_0', 108), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "278,\"[('polygon_4', 0), ('polygon_3', 94), ('polygon_2', 421), ('polygon_1', 544), ('polygon_0', 99), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "279,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "280,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "281,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "282,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "283,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "284,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "285,\"[('polygon_4', 27), ('polygon_3', 453), ('polygon_2', 944), ('polygon_1', 1312), ('polygon_0', 102), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "286,\"[('polygon_4', 27), ('polygon_3', 453), ('polygon_2', 944), ('polygon_1', 1312), ('polygon_0', 102), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "287,\"[('polygon_4', 11), ('polygon_3', 285), ('polygon_2', 484), ('polygon_1', 490), ('polygon_0', 23), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "288,\"[('polygon_4', 11), ('polygon_3', 285), ('polygon_2', 484), ('polygon_1', 490), ('polygon_0', 23), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "289,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "290,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "291,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "292,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "293,\"[('polygon_4', 0), ('polygon_3', 20), ('polygon_2', 206), ('polygon_1', 292), ('polygon_0', 104), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "294,\"[('polygon_4', 0), ('polygon_3', 20), ('polygon_2', 206), ('polygon_1', 292), ('polygon_0', 104), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "295,\"[('polygon_4', 0), ('polygon_3', 96), ('polygon_2', 159), ('polygon_1', 298), ('polygon_0', 114), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "296,\"[('polygon_4', 0), ('polygon_3', 96), ('polygon_2', 159), ('polygon_1', 298), ('polygon_0', 114), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "297,\"[('polygon_3', 30), ('polygon_2', 177), ('polygon_1', 302), ('polygon_0', 81), ('polygon_4', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "298,\"[('polygon_4', 2), ('polygon_3', 22), ('polygon_2', 194), ('polygon_1', 537), ('polygon_0', 86), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "299,\"[('polygon_4', 2), ('polygon_3', 22), ('polygon_2', 194), ('polygon_1', 537), ('polygon_0', 86), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "300,\"[('polygon_4', 0), ('polygon_3', 40), ('polygon_2', 272), ('polygon_1', 290), ('polygon_0', 12), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "301,\"[('polygon_4', 0), ('polygon_3', 40), ('polygon_2', 272), ('polygon_1', 290), ('polygon_0', 12), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "302,\"[('polygon_4', 0), ('polygon_3', 42), ('polygon_2', 99), ('polygon_1', 172), ('polygon_0', 37), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "303,\"[('polygon_4', 0), ('polygon_3', 42), ('polygon_2', 99), ('polygon_1', 172), ('polygon_0', 37), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "304,\"[('polygon_4, 0', ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 0)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "305,\"[('polygon_4, 0', ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 0)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "306,\"[('polygon_4', 0), ('polygon_3', 254), ('polygon_2', 401), ('polygon_1', 392), ('polygon_0', 108), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "307,\"[('polygon_4', 0), ('polygon_3', 254), ('polygon_2', 401), ('polygon_1', 392), ('polygon_0', 108), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "308,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "309,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "310,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "311,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "312,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "313,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "314,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "315,\"[('polygon_4', 27), ('polygon_3', 453), ('polygon_2', 944), ('polygon_1', 1312), ('polygon_0', 102), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "316,\"[('polygon_4', 27), ('polygon_3', 453), ('polygon_2', 944), ('polygon_1', 1312), ('polygon_0', 102), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "317,\"[('polygon_4', 11), ('polygon_3', 285), ('polygon_2', 484), ('polygon_1', 490), ('polygon_0', 23), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "318,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "319,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "320,\"[('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('polygon_4', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "321,\"[('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('polygon_4', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "322,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "323,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "324,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "325,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "326,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "327,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "328,\"[('polygon_4', 2), ('polygon_3', 22), ('polygon_2', 194), ('polygon_1', 537), ('polygon_0', 86), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "329,\"[('polygon_4', 2), ('polygon_3', 22), ('polygon_2', 194), ('polygon_1', 537), ('polygon_0', 86), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "330,\"[('polygon_4', 0), ('polygon_3', 40), ('polygon_2', 272), ('polygon_1', 290), ('polygon_0', 12), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "331,\"[('polygon_4', 0), ('polygon_3', 40), ('polygon_2', 272), ('polygon_1', 290), ('polygon_0', 12), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "332,\"[('polygon_4', 0), ('polygon_3', 42), ('polygon_2', 99), ('polygon_1', 172), ('polygon_0', 37), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "333,\"[('polygon_4', 0), ('polygon_3', 42), ('polygon_2', 99), ('polygon_1', 172), ('polygon_0', 37), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "334,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "335,\"[('polygon_4', 17), ('polygon_3', 235), ('polygon_2', 394), ('polygon_1', 476), ('polygon_0', 106), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "336,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 46), ('polygon_0', 155), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "337,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "338,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "339,\"[('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('polygon_4', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "340,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "341,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "342,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "343,\"[('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('polygon_4', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "344,\"[('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('polygon_4', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "345,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "346,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "347,\"[('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('polygon_4', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "348,\"[('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('polygon_4', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "349,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "350,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "351,\"[('polygon_3', 266), ('polygon_2', 782), ('polygon_1', 997), ('polygon_0', 237), ('polygon_4', 38), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "352,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "353,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "354,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "355,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "356,\"[('polygon_4', 0), ('polygon_3', 138), ('polygon_2', 321), ('polygon_1', 491), ('polygon_0', 17), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "357,\"[('polygon_4', 0), ('polygon_3', 138), ('polygon_2', 321), ('polygon_1', 491), ('polygon_0', 17), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "358,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "359,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "360,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "361,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "362,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 46), ('polygon_0', 155), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "363,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 46), ('polygon_0', 155), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "364,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "365,\"[('polygon_4', 0), ('polygon_3', 145), ('polygon_2', 391), ('polygon_1', 543), ('polygon_0', 54), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "366,\"[('polygon_4', 0), ('polygon_3', 145), ('polygon_2', 391), ('polygon_1', 543), ('polygon_0', 54), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "367,\"[('polygon_4', 0), ('polygon_3', 68), ('polygon_2', 124), ('polygon_1', 135), ('polygon_0', 1), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "368,\"[('polygon_4', 0), ('polygon_3', 68), ('polygon_2', 124), ('polygon_1', 135), ('polygon_0', 1), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "369,\"[('polygon_4', 9), ('polygon_3', 127), ('polygon_2', 344), ('polygon_1', 338), ('polygon_0', 7), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "370,\"[('polygon_4', 9), ('polygon_3', 127), ('polygon_2', 344), ('polygon_1', 338), ('polygon_0', 7), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "371,\"[('polygon_3', 266), ('polygon_2', 782), ('polygon_1', 997), ('polygon_0', 237), ('polygon_4', 38), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "372,\"[('polygon_3', 266), ('polygon_2', 782), ('polygon_1', 997), ('polygon_0', 237), ('polygon_4', 38), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "373,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "374,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "375,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "376,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "377,\"[('polygon_4', 0), ('polygon_3', 138), ('polygon_2', 321), ('polygon_1', 491), ('polygon_0', 17), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "378,\"[('polygon_4', 0), ('polygon_3', 138), ('polygon_2', 321), ('polygon_1', 491), ('polygon_0', 17), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "379,\"[('polygon_4', 0), ('polygon_3', 107), ('polygon_2', 238), ('polygon_1', 940), ('polygon_0', 173), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "380,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "381,\"[('polygon_4', 47), ('polygon_3', 241), ('polygon_2', 248), ('polygon_1', 196), ('polygon_0', 3), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "382,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "383,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "384,\"[('polygon_4', 0), ('polygon_3', 145), ('polygon_2', 391), ('polygon_1', 543), ('polygon_0', 54), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "385,\"[('polygon_4', 0), ('polygon_3', 145), ('polygon_2', 391), ('polygon_1', 543), ('polygon_0', 54), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "386,\"[('polygon_4', 0), ('polygon_3', 68), ('polygon_2', 124), ('polygon_1', 135), ('polygon_0', 1), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "387,\"[('polygon_4', 0), ('polygon_3', 68), ('polygon_2', 124), ('polygon_1', 135), ('polygon_0', 1), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "388,\"[('polygon_4', 0), ('polygon_3', 42), ('polygon_2', 277), ('polygon_1', 613), ('polygon_0', 381), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "389,\"[('polygon_4', 9), ('polygon_3', 127), ('polygon_2', 344), ('polygon_1', 338), ('polygon_0', 7), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "390,\"[('polygon_4', 0), ('polygon_3', 45), ('polygon_2', 150), ('polygon_1', 529), ('polygon_0', 173), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "391,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "392,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "393,\"[('polygon_4', 40), ('polygon_3', 246), ('polygon_2', 353), ('polygon_1', 470), ('polygon_0', 61), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "394,\"[('polygon_4', 40), ('polygon_3', 246), ('polygon_2', 353), ('polygon_1', 470), ('polygon_0', 61), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "395,\"[('polygon_4', 71), ('polygon_3', 512), ('polygon_2', 1033), ('polygon_1', 1884), ('polygon_0', 256), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "396,\"[('polygon_4', 71), ('polygon_3', 512), ('polygon_2', 1033), ('polygon_1', 1884), ('polygon_0', 256), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "397,\"[('polygon_4', 0), ('polygon_3', 107), ('polygon_2', 238), ('polygon_1', 940), ('polygon_0', 173), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "398,\"[('polygon_4', 0), ('polygon_3', 107), ('polygon_2', 238), ('polygon_1', 940), ('polygon_0', 173), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "399,\"[('polygon_4', 0), ('polygon_3', 107), ('polygon_2', 238), ('polygon_1', 940), ('polygon_0', 173), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "400,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "401,\"[('polygon_4', 1), ('polygon_3', 95), ('polygon_2', 98), ('polygon_1', 129), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "402,\"[('polygon_4', 1), ('polygon_3', 95), ('polygon_2', 98), ('polygon_1', 129), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "403,\"[('polygon_4', 0), ('polygon_3', 42), ('polygon_2', 277), ('polygon_1', 613), ('polygon_0', 381), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "404,\"[('polygon_4', 0), ('polygon_3', 42), ('polygon_2', 277), ('polygon_1', 613), ('polygon_0', 381), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "405,\"[('polygon_4', 0), ('polygon_3', 45), ('polygon_2', 150), ('polygon_1', 529), ('polygon_0', 173), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "406,\"[('polygon_4', 0), ('polygon_3', 45), ('polygon_2', 150), ('polygon_1', 529), ('polygon_0', 173), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "407,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "408,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "409,\"[('polygon_4', 52), ('polygon_3', 728), ('polygon_2', 1741), ('polygon_1', 2074), ('polygon_0', 336), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "410,\"[('polygon_4', 40), ('polygon_3', 246), ('polygon_2', 353), ('polygon_1', 470), ('polygon_0', 61), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "411,\"[('polygon_4', 79), ('polygon_3', 561), ('polygon_2', 876), ('polygon_1', 1152), ('polygon_0', 202), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "412,\"[('polygon_4', 71), ('polygon_3', 512), ('polygon_2', 1033), ('polygon_1', 1884), ('polygon_0', 256), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "413,\"[('polygon_4', 35), ('polygon_3', 739), ('polygon_2', 1479), ('polygon_1', 1691), ('polygon_0', 187), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "414,\"[('polygon_4', 35), ('polygon_3', 739), ('polygon_2', 1479), ('polygon_1', 1691), ('polygon_0', 187), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "415,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "416,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "417,\"[('polygon_4', 1), ('polygon_3', 95), ('polygon_2', 98), ('polygon_1', 129), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "418,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "419,\"[('polygon_4', 44), ('polygon_3', 308), ('polygon_2', 662), ('polygon_1', 1043), ('polygon_0', 232), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "420,\"[('polygon_4', 44), ('polygon_3', 308), ('polygon_2', 662), ('polygon_1', 1043), ('polygon_0', 232), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "421,\"[('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('polygon_4', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "422,\"[('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('polygon_4', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "423,\"[('polygon_4', 52), ('polygon_3', 728), ('polygon_2', 1741), ('polygon_1', 2074), ('polygon_0', 336), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "424,\"[('polygon_4', 52), ('polygon_3', 728), ('polygon_2', 1741), ('polygon_1', 2074), ('polygon_0', 336), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "425,\"[('polygon_4', 52), ('polygon_3', 728), ('polygon_2', 1741), ('polygon_1', 2074), ('polygon_0', 336), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "426,\"[('polygon_4', 79), ('polygon_3', 561), ('polygon_2', 876), ('polygon_1', 1152), ('polygon_0', 202), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "427,\"[('polygon_4', 79), ('polygon_3', 561), ('polygon_2', 876), ('polygon_1', 1152), ('polygon_0', 202), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "428,\"[('polygon_4', 35), ('polygon_3', 739), ('polygon_2', 1479), ('polygon_1', 1691), ('polygon_0', 187), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "429,\"[('polygon_4', 35), ('polygon_3', 739), ('polygon_2', 1479), ('polygon_1', 1691), ('polygon_0', 187), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "430,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "431,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "432,\"[('polygon_4', 44), ('polygon_3', 308), ('polygon_2', 662), ('polygon_1', 1043), ('polygon_0', 232), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "433,\"[('polygon_4', 44), ('polygon_3', 308), ('polygon_2', 662), ('polygon_1', 1043), ('polygon_0', 232), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "434,\"[('polygon_4', 26), ('polygon_3', 564), ('polygon_2', 1095), ('polygon_1', 1367), ('polygon_0', 185), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "435,\"[('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('polygon_4', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "436,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 62), ('polygon_0', 167), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "437,\"[('polygon_4', 52), ('polygon_3', 728), ('polygon_2', 1741), ('polygon_1', 2074), ('polygon_0', 336), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "438,\"[('polygon_4', 6), ('polygon_3', 304), ('polygon_2', 699), ('polygon_1', 1265), ('polygon_0', 110), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "439,\"[('polygon_4', 6), ('polygon_3', 304), ('polygon_2', 699), ('polygon_1', 1265), ('polygon_0', 110), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "440,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "441,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "442,\"[('polygon_4', 0), ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "443,\"[('polygon_4', 21), ('polygon_3', 210), ('polygon_2', 675), ('polygon_1', 1368), ('polygon_0', 279), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "444,\"[('polygon_4', 21), ('polygon_3', 210), ('polygon_2', 675), ('polygon_1', 1368), ('polygon_0', 279), ('isAfadPointAvaliable', 1)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "445,\"[('polygon_4, 0', ('polygon_3', 0), ('polygon_2', 0), ('polygon_1', 0), ('polygon_0', 0), ('isAfadPointAvaliable', 0)]\""
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "446,\"[('polygon_4',"
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "447,\"[('polygon_4',"
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "448,\"[('polygon_4',"
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "449,\"[('polygon_4',"
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "450,\"[('polygon_4',"
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "451,\"[('polygon_4',"
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "452,\"[('polygon_4',"
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "453,\"[('polygon_4',"
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "454,\"[('polygon_4',"
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "455,\"[('polygon_4',"
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "456,\"[('polygon_4',"
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "457,\"[('polygon_4',"
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "458,\"[('polygon_4',"
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "459,\"[('polygon_4',"
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "460,\"[('polygon_3',"
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "461,\"[('polygon_4',"
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "462,\"[('polygon_4',"
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "463,\"[('polygon_4',"
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "464,\"[('polygon_4',"
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "465,\"[('polygon_4',"
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "466,\"[('polygon_4',"
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "467,\"[('polygon_4',"
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "468,\"[('polygon_4',"
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "469,\"[('polygon_4',"
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "470,\"[('polygon_4',"
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "471,\"[('polygon_4',"
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "472,\"[('polygon_4',"
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "473,\"[('polygon_4',"
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "474,\"[('polygon_4',"
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "475,\"[('polygon_4',"
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "476,\"[('polygon_4',"
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "477,\"[('polygon_4',"
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "478,\"[('polygon_4',"
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "479,\"[('polygon_4',"
+	},
+	{
+		"json_featuretype" : "afad_network_full_son",
+		"col0" : "480,\"[('polygon_4',"
+	}
+]
